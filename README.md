@@ -173,6 +173,4 @@ A few screenshots from the deployed sites (all on GitHub Pages):
 
 <div align="center">
 
-*Built by hand, one file at a time.*
-
 </div>

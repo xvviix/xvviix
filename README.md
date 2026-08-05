@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://github.com/copperline-plumbing/">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=pdf-toolkit-fa&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=copperline-plumbing&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
   </a>
   <a href="https://github.com/xvviix/pdf-toolkit-en">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=pdf-toolkit-en&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>

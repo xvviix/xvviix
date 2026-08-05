@@ -8,7 +8,7 @@
 
 <p align="center">
   I like building things that <i>look</i> good and <i>actually work</i>.
-  Mostly handcrafted static sites — no frameworks, no build steps, just clean code.
+  Mostly static crafted sites — no frameworks, no build steps, just clean code.
   A few Python apps on the side, mostly desktop tools with real use cases.
 </p>
 
@@ -64,7 +64,7 @@
 
 ## 🧱 What I build
 
-Mostly **handcrafted static websites** — each one designed from scratch, zero
+Mostly **crafted static websites** — each one designed from scratch, zero
 frameworks, zero dependencies. A lot of them are live on GitHub Pages. Scroll
 down, there are screenshots. 👇
 
@@ -82,7 +82,7 @@ down, there are screenshots. 👇
 | Project | What it is |
 |---------|-----------|
 | [ember-oak](https://github.com/xvviix/ember-oak) | Specialty coffee roasters — warm tones, roast-level story |
-| [hearth-and-rye](https://github.com/xvviix/hearth-and-rye) | Artisan bakery — rustic, handcrafted feel |
+| [hearth-and-rye](https://github.com/xvviix/hearth-and-rye) | Artisan bakery — rustic, static crafted |
 | [sky-route](https://github.com/xvviix/sky-route) | Airline landing page with flight search, dark glassmorphism UI |
 | [ferdows-grand-hotel](https://github.com/xvviix/ferdows-grand-hotel) | Grand hotel — elegant, booking-focused |
 | [Freshmart](https://github.com/xvviix/Freshmart) | Grocery storefront with a bright, fresh look |
@@ -108,7 +108,7 @@ down, there are screenshots. 👇
 |---------|-----------|
 | [sterling-longevity-clinic](https://github.com/xvviix/sterling-longevity-clinic) | Longevity clinic — clean medical + modern |
 | [aurea-dental](https://github.com/xvviix/aurea-dental) | Berlin dental clinic — trustworthy, bright |
-| [linden-apotheke](https://github.com/xvviix/linden-apotheke) | Pharmacy — handcrafted, professional |
+| [linden-apotheke](https://github.com/xvviix/linden-apotheke) | Pharmacy — static crafted, professional |
 | [kai-lennox](https://github.com/xvviix/kai-lennox) | Elite performance coaching — bold, motivational |
 | [fitness-gym](https://github.com/xvviix/fitness-gym) | Apexfit gym — high-energy, dark |
 

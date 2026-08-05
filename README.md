@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="light.svg" alt="Matin" width="100%"/>
+  <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/light.svg" alt="Matin" width="100%"/>
 </p>
 
 <p align="center">
@@ -141,13 +141,13 @@ A few screenshots from the deployed sites (all on GitHub Pages):
 
 <div align="center">
 
-<img src="screenshots/sky-route.jpg" width="45%"/> <img src="screenshots/ember-oak.jpg" width="45%"/>
+<img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/sky-route.jpg" width="45%"/> <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/ember-oak.jpg" width="45%"/>
 
-<img src="screenshots/nail-salon.jpg" width="45%"/> <img src="screenshots/jewelry-store.jpg" width="45%"/>
+<img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/nail-salon.jpg" width="45%"/> <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/jewelry-store.jpg" width="45%"/>
 
-<img src="screenshots/linden-apotheke.jpg" width="45%"/> <img src="screenshots/travel-agency.jpg" width="45%"/>
+<img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/linden-apotheke.jpg" width="45%"/> <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/travel-agency.jpg" width="45%"/>
 
-<img src="screenshots/Dastin.jpg" width="45%"/> <img src="screenshots/photography-portfolio.jpg" width="45%"/>
+<img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/Dastin.jpg" width="45%"/> <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/photography-portfolio.jpg" width="45%"/>
 
 </div>
 

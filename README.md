@@ -7,6 +7,13 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fxvviix%2Fxvviix%2Fmain%2Fstats.json&query=repos&label=repos&color=0891b2&style=flat-square"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fxvviix%2Fxvviix%2Fmain%2Fstats.json&query=live&label=live%20sites&color=7c3aed&style=flat-square"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fxvviix%2Fxvviix%2Fmain%2Fstats.json&query=stars&label=stars&color=f59e0b&style=flat-square"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fxvviix%2Fxvviix%2Fmain%2Fstats.json&query=followers&label=followers&color=ec4899&style=flat-square"/>
+</p>
+
+<p align="center">
   I like building things that <i>look</i> good and <i>actually work</i>.
   Mostly static crafted sites — no frameworks, no build steps, just clean code.
   A few Python apps on the side, mostly desktop tools with real use cases.
@@ -133,7 +140,7 @@ down, there are screenshots. 👇
 
 ---
 
-## 🖼️ All 28 projects, live
+## 🖼️ Projects, live
 
 Every site below is deployed on GitHub Pages — click the name to open it:
 

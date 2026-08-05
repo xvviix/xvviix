@@ -23,23 +23,42 @@ jobs:
           python3 - <<'EOF'
           import json, os, urllib.request
 
-          req = urllib.request.Request(
-              "https://api.github.com/users/xvviix/repos?per_page=100",
-              headers={
-                  "User-Agent": "banner-updater",
-                  "Authorization": "Bearer " + os.environ["GH_TOKEN"],
-              }
-          )
-          repos = json.load(urllib.request.urlopen(req, timeout=30))
+          def gh(path):
+              req = urllib.request.Request(
+                  "https://api.github.com" + path,
+                  headers={
+                      "User-Agent": "banner-updater",
+                      "Authorization": "Bearer " + os.environ["GH_TOKEN"],
+                  }
+              )
+              return json.load(urllib.request.urlopen(req, timeout=30))
 
-          total = len(repos)                                 # همه ریپوها
-          live = sum(1 for r in repos if r.get("has_pages")) # سایت‌های GitHub Pages
+          user = gh("/users/xvviix")
+          repos = gh("/users/xvviix/repos?per_page=100")
 
-          print(f"total={total}")
-          print(f"live={live}")
+          total    = len(repos)                                     # همه ریپوها
+          live     = sum(1 for r in repos if r.get("has_pages"))   # سایت‌های GitHub Pages
+          stars    = sum(r.get("stargazers_count") or 0 for r in repos)  # مجموع ستاره‌ها
+          followers = user.get("followers") or 0                    # فالوورها
+
+          # خروجی برای استپ بعد
           with open(os.environ["GITHUB_OUTPUT"], "a") as f:
               f.write(f"total={total}\n")
               f.write(f"live={live}\n")
+              f.write(f"stars={stars}\n")
+              f.write(f"followers={followers}\n")
+
+          # فایل stats.json برای badge های داینامیک README
+          stats = {
+              "repos": total,
+              "live": live,
+              "stars": stars,
+              "followers": followers,
+          }
+          with open("stats.json", "w") as f:
+              json.dump(stats, f)
+
+          print(f"total={total} live={live} stars={stars} followers={followers}")
           EOF
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -50,24 +69,28 @@ jobs:
           import os
           path = "light.svg"
           src = open(path, encoding="utf-8").read()
-          src = src.replace("__PROJECTS__", os.environ["TOTAL"])
+          src = src.replace("__PROJECTS__",  os.environ["TOTAL"])
           src = src.replace("__LIVE_SITES__", os.environ["LIVE"])
+          src = src.replace("__STARS__",     os.environ["STARS"])
+          src = src.replace("__FOLLOWERS__", os.environ["FOLLOWERS"])
           open(path, "w", encoding="utf-8").write(src)
           print("Updated light.svg")
           EOF
         env:
           TOTAL: ${{ steps.numbers.outputs.total }}
           LIVE: ${{ steps.numbers.outputs.live }}
+          STARS: ${{ steps.numbers.outputs.stars }}
+          FOLLOWERS: ${{ steps.numbers.outputs.followers }}
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add light.svg
+          git add light.svg stats.json
           if git diff --cached --quiet; then
             echo "No changes — numbers are already up to date."
           else
-            git commit -m "Auto-update banner numbers (projects: ${{ steps.numbers.outputs.total }}, live sites: ${{ steps.numbers.outputs.live }})"
+            git commit -m "Auto-update banner + stats (repos: ${{ steps.numbers.outputs.total }}, live: ${{ steps.numbers.outputs.live }}, stars: ${{ steps.numbers.outputs.stars }}, followers: ${{ steps.numbers.outputs.followers }})"
             git push
             echo "Pushed updated banner."
           fi

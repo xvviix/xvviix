@@ -18,10 +18,10 @@
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=xvviix&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=xvviix&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xvviix&layout=compact&hide_border=true&title_color=0891b2&text_color=0f172a&bg_color=ffffff&langs_count=6"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=xvviix&layout=compact&hide_border=true&title_color=0891b2&text_color=0f172a&bg_color=ffffff&langs_count=6"/>
 </a>
 </p>
 
@@ -41,22 +41,22 @@
 
 <p align="center">
   <a href="https://github.com/xvviix/pdf-toolkit-fa">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xvviix&repo=pdf-toolkit-fa&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=pdf-toolkit-fa&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
   </a>
   <a href="https://github.com/xvviix/pdf-toolkit-en">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xvviix&repo=pdf-toolkit-en&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=pdf-toolkit-en&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
   </a>
   <a href="https://github.com/xvviix/sky-route">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xvviix&repo=sky-route&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=sky-route&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
   </a>
   <a href="https://github.com/xvviix/ember-oak">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xvviix&repo=ember-oak&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=ember-oak&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
   </a>
   <a href="https://github.com/xvviix/nail-salon">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xvviix&repo=nail-salon&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=nail-salon&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
   </a>
   <a href="https://github.com/xvviix/Weather-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xvviix&repo=Weather-app&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=Weather-app&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
   </a>
 </p>
 

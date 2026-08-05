@@ -1,0 +1,73 @@
+name: Update banner numbers
+
+on:
+  schedule:
+    - cron: "0 2 * * *"        # هر روز ساعت 02:00 UTC
+  workflow_dispatch:           # اجرای دستی (دکمه Run workflow)
+  push:
+    branches: [ main ]
+    paths: [ light.svg ]       # وقتی پوستر عوض شد هم آپدیت کن
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch live numbers from GitHub API
+        id: numbers
+        run: |
+          python3 - <<'EOF'
+          import json, os, urllib.request
+
+          req = urllib.request.Request(
+              "https://api.github.com/users/xvviix/repos?per_page=100",
+              headers={
+                  "User-Agent": "banner-updater",
+                  "Authorization": "Bearer " + os.environ["GH_TOKEN"],
+              }
+          )
+          repos = json.load(urllib.request.urlopen(req, timeout=30))
+
+          total = len(repos)                                 # همه ریپوها
+          live = sum(1 for r in repos if r.get("has_pages")) # سایت‌های GitHub Pages
+
+          print(f"total={total}")
+          print(f"live={live}")
+          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+              f.write(f"total={total}\n")
+              f.write(f"live={live}\n")
+          EOF
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update light.svg with current numbers
+        run: |
+          python3 - <<'EOF'
+          import os
+          path = "light.svg"
+          src = open(path, encoding="utf-8").read()
+          src = src.replace("__PROJECTS__", os.environ["TOTAL"])
+          src = src.replace("__LIVE_SITES__", os.environ["LIVE"])
+          open(path, "w", encoding="utf-8").write(src)
+          print("Updated light.svg")
+          EOF
+        env:
+          TOTAL: ${{ steps.numbers.outputs.total }}
+          LIVE: ${{ steps.numbers.outputs.live }}
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add light.svg
+          if git diff --cached --quiet; then
+            echo "No changes — numbers are already up to date."
+          else
+            git commit -m "Auto-update banner numbers (projects: ${{ steps.numbers.outputs.total }}, live sites: ${{ steps.numbers.outputs.live }})"
+            git push
+            echo "Pushed updated banner."
+          fi

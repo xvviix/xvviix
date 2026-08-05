@@ -77,7 +77,6 @@
   <!-- مثلث‌ها -->
   <polygon points="30,180 55,150 80,180" fill="#0891b2" opacity="0.1"/>
   <polygon points="560,40 580,15 600,40" fill="#7c3aed" opacity="0.12"/>
-  <polygon points="880,190 900,160 920,190" fill="#ec4899" opacity="0.1" transform="translate(-30,0)"/>
 
   <!-- خطوط مداری -->
   <ellipse cx="820" cy="130" rx="110" ry="42" fill="none" stroke="#7c3aed" stroke-opacity="0.2" stroke-width="1.2" transform="rotate(-12, 820, 130)"/>
@@ -91,7 +90,7 @@
   <rect x="60" y="112" width="210" height="4" rx="2" fill="url(#bar)"/>
 
   <!-- عنوان -->
-  <text x="58" y="140" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#334155" font-weight="600">Builder · Coder · Vibe engineer</text>
+  <text x="58" y="140" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#334155" font-weight="600">Builder · Vibe coder · Software engineer</text>
 
   <!-- تکنولوژی‌ها -->
   <text x="58" y="170" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#64748b">Python</text>
@@ -102,19 +101,15 @@
   <circle cx="238" cy="166" r="2.5" fill="#94a3b8"/>
   <text x="248" y="170" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#64748b">JavaScript</text>
 
-  <!-- ===== کارت‌های پایین ===== -->
+  <!-- ===== کارت‌های پایین (اعداد به‌صورت خودکار توسط GitHub Actions آپدیت می‌شوند) ===== -->
   <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
-    <!-- کارت ۱ -->
-    <rect x="58" y="190" width="108" height="34" rx="8" fill="#ffffff" opacity="0.65" stroke="#0891b2" stroke-opacity="0.3" stroke-width="1"/>
-    <text x="112" y="211" text-anchor="middle" font-size="12" fill="#0891b2" font-weight="700">34+ PROJECTS</text>
+    <!-- کارت ۱: پروژه‌ها -->
+    <rect x="58" y="190" width="130" height="34" rx="8" fill="#ffffff" opacity="0.65" stroke="#0891b2" stroke-opacity="0.3" stroke-width="1"/>
+    <text x="123" y="211" text-anchor="middle" font-size="12" fill="#0891b2" font-weight="700">__PROJECTS__+ PROJECTS</text>
 
-    <!-- کارت ۲ -->
-    <rect x="176" y="190" width="120" height="34" rx="8" fill="#ffffff" opacity="0.65" stroke="#7c3aed" stroke-opacity="0.3" stroke-width="1"/>
-    <text x="236" y="211" text-anchor="middle" font-size="12" fill="#7c3aed" font-weight="700">28 LIVE SITES</text>
-
-    <!-- کارت ۳ -->
-    <rect x="306" y="190" width="130" height="34" rx="8" fill="#ffffff" opacity="0.65" stroke="#ec4899" stroke-opacity="0.3" stroke-width="1"/>
-    <text x="371" y="211" text-anchor="middle" font-size="12" fill="#ec4899" font-weight="700">100% HANDCRAFTED</text>
+    <!-- کارت ۲: سایت‌های زنده -->
+    <rect x="198" y="190" width="150" height="34" rx="8" fill="#ffffff" opacity="0.65" stroke="#7c3aed" stroke-opacity="0.3" stroke-width="1"/>
+    <text x="273" y="211" text-anchor="middle" font-size="12" fill="#7c3aed" font-weight="700">__LIVE_SITES__ LIVE SITES</text>
   </g>
 
   <!-- گوشه‌های تزئینی پایین -->

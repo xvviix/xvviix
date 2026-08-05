@@ -1,27 +1,66 @@
-<div align="center">
+<p align="center">
+  <img src="light.svg" alt="Matin" width="100%"/>
+</p>
 
-# Hey, I'm Matin 👋
+<p align="center">
+  <b>Python intermediate · HTML intermediate · Vibe coder · AI user · High school student</b>
+</p>
 
-**Python intermediate · HTML intermediate · Vibe coder · AI user · High school student**
+<p align="center">
+  I like building things that <i>look</i> good and <i>actually work</i>.
+  Mostly handcrafted static sites — no frameworks, no build steps, just clean code.
+  A few Python apps on the side, mostly desktop tools with real use cases.
+</p>
 
-I like building things that *look* good and *actually work*. Most of my repos are
-handcrafted static sites — no frameworks, no build steps, just clean HTML/CSS/JS.
-And a few Python apps on the side, mostly desktop tools with real use cases.
-
-<hr width="60%"/>
+---
 
 ### 📊 The numbers
 
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=xvviix&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xvviix&layout=compact&hide_border=true&title_color=0891b2&text_color=0f172a&bg_color=ffffff&langs_count=6"/>
 </a>
+</p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=xvviix&theme=github-light&hide_border=true&bg_color=ffffff&color=0891b2&line=7c3aed&point=0f172a" width="100%"/>
 
-</div>
+---
+
+### 🐍 Contribution snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xvviix/xvviix/output/snake.svg" alt="Snake eating my contributions"/>
+</p>
+
+---
+
+### 📌 Featured work
+
+<p align="center">
+  <a href="https://github.com/xvviix/pdf-toolkit-fa">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xvviix&repo=pdf-toolkit-fa&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
+  </a>
+  <a href="https://github.com/xvviix/pdf-toolkit-en">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xvviix&repo=pdf-toolkit-en&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
+  </a>
+  <a href="https://github.com/xvviix/sky-route">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xvviix&repo=sky-route&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
+  </a>
+  <a href="https://github.com/xvviix/ember-oak">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xvviix&repo=ember-oak&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
+  </a>
+  <a href="https://github.com/xvviix/nail-salon">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xvviix&repo=nail-salon&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
+  </a>
+  <a href="https://github.com/xvviix/Weather-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xvviix&repo=Weather-app&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
+  </a>
+</p>
+
+> Pins are easy to change — just hit **Customize your pins** on my profile.
 
 ---
 

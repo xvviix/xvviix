@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0891b2"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#0891b2"/>
+    </linearGradient>
+  </defs>
+
+  <!-- پس‌زمینه -->
+  <rect width="900" height="200" fill="#ffffff"/>
+
+  <!-- نوار گرادیان بالای بنر -->
+  <rect x="0" y="0" width="900" height="6" fill="url(#grad)"/>
+
+  <!-- دایره‌های تزئینی -->
+  <circle cx="820" cy="40" r="70" fill="#0891b2" opacity="0.08"/>
+  <circle cx="860" cy="150" r="50" fill="#7c3aed" opacity="0.08"/>
+  <circle cx="60" cy="170" r="45" fill="#10b981" opacity="0.07"/>
+
+  <!-- اسم -->
+  <text x="70" y="105" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="800" fill="url(#textGrad)">Matin</text>
+  <text x="70" y="145" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#64748b">Python · HTML · CSS · JavaScript</text>
+
+  <!-- ایموجی/آیکون -->
+  <text x="770" y="120" font-size="64">🚀</text>
+
+  <!-- خط پایین -->
+  <rect x="70" y="160" width="200" height="3" rx="1.5" fill="url(#grad)"/>
+</svg>

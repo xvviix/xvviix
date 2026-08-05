@@ -133,25 +133,41 @@ down, there are screenshots. 👇
 
 ---
 
-## 🖼️ Some of it, live
+## 🖼️ All 28 projects, live
 
-A few screenshots from the deployed sites (all on GitHub Pages):
+Every site below is deployed on GitHub Pages — click the name to open it:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/sky-route.jpg" width="45%"/> <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/ember-oak.jpg" width="45%"/>
+<a href="https://github.com/xvviix/sky-route"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/sky-route.jpg" width="46%" alt="SkyRoute Airlines"/></a> <a href="https://github.com/xvviix/ember-oak"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/ember-oak.jpg" width="46%" alt="Ember & Oak — Coffee"/></a>
 
-<img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/nail-salon.jpg" width="45%"/> <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/jewelry-store.jpg" width="45%"/>
+<a href="https://github.com/xvviix/hearth-and-rye"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/hearth-and-rye.jpg" width="46%" alt="Hearth & Rye — Bakery"/></a> <a href="https://github.com/xvviix/linden-apotheke"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/linden-apotheke.jpg" width="46%" alt="Linden Apotheke — Pharmacy"/></a>
 
-<img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/linden-apotheke.jpg" width="45%"/> <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/travel-agency.jpg" width="45%"/>
+<a href="https://github.com/xvviix/aurea-dental"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/aurea-dental.jpg" width="46%" alt="Auréa Dental"/></a> <a href="https://github.com/xvviix/sterling-longevity-clinic"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/sterling-longevity-clinic.jpg" width="46%" alt="Sterling Longevity Clinic"/></a>
 
-<img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/Dastin.jpg" width="45%"/> <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/photography-portfolio.jpg" width="45%"/>
+<a href="https://github.com/xvviix/kai-lennox"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/kai-lennox.jpg" width="46%" alt="Kai Lennox — Coaching"/></a> <a href="https://github.com/xvviix/fitness-gym"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/fitness-gym.jpg" width="46%" alt="Apexfit Gym"/></a>
+
+<a href="https://github.com/xvviix/haven-property-rental"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/haven-property-rental.jpg" width="46%" alt="Haven Property Rental"/></a> <a href="https://github.com/xvviix/mehrgan-realestate"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/mehrgan-realestate.jpg" width="46%" alt="Mehrgan Real Estate"/></a>
+
+<a href="https://github.com/xvviix/meridian-construction"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/meridian-construction.jpg" width="46%" alt="Meridian Construction"/></a> <a href="https://github.com/xvviix/aether-architecture"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/aether-architecture.jpg" width="46%" alt="AETHER Architecture"/></a>
+
+<a href="https://github.com/xvviix/ashford-whitmore"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/ashford-whitmore.jpg" width="46%" alt="Ashford & Whitmore"/></a> <a href="https://github.com/xvviix/copperline-plumbing"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/copperline-plumbing.jpg" width="46%" alt="Copperline Plumbing"/></a>
+
+<a href="https://github.com/xvviix/nail-salon"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/nail-salon.jpg" width="46%" alt="LUMIÈRE Nail Atelier"/></a> <a href="https://github.com/xvviix/Hair-salon"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/Hair-salon.jpg" width="46%" alt="Hair Salon"/></a>
+
+<a href="https://github.com/xvviix/iron-and-velvet"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/iron-and-velvet.jpg" width="46%" alt="Iron & Velvet — Barbershop"/></a> <a href="https://github.com/xvviix/atelier-linnea"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/atelier-linnea.jpg" width="46%" alt="Atelier Linnea"/></a>
+
+<a href="https://github.com/xvviix/aurelle-ritual-bathing-house"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/aurelle-ritual-bathing-house.jpg" width="46%" alt="Aurelle Ritual Bathing"/></a> <a href="https://github.com/xvviix/eila-yoga-studio"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/eila-yoga-studio.jpg" width="46%" alt="Eila Yoga Studio"/></a>
+
+<a href="https://github.com/xvviix/jewelry-store"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/jewelry-store.jpg" width="46%" alt="LUMEN Jewelry"/></a> <a href="https://github.com/xvviix/Perfume"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/Perfume.jpg" width="46%" alt="Royal Perfume"/></a>
+
+<a href="https://github.com/xvviix/Habibi-shoes"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/Habibi-shoes.jpg" width="46%" alt="Habibi Shoes"/></a> <a href="https://github.com/xvviix/zarineh-watch-store"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/zarineh-watch-store.jpg" width="46%" alt="Zarineh Watches"/></a>
+
+<a href="https://github.com/xvviix/Dastin"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/Dastin.jpg" width="46%" alt="Dastin Brand"/></a> <a href="https://github.com/xvviix/photography-portfolio"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/photography-portfolio.jpg" width="46%" alt="Photography Portfolio"/></a>
+
+<a href="https://github.com/xvviix/travel-agency"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/travel-agency.jpg" width="46%" alt="Auora Voyages"/></a> <a href="https://github.com/xvviix/Freshmart"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/Freshmart.jpg" width="46%" alt="Freshmart Grocery"/></a>
 
 </div>
-
-> All 28 sites are live — just browse my [repos](https://github.com/xvviix?tab=repositories), almost every one has a working demo link.
-
----
 
 ## 🛠️ Stack
 

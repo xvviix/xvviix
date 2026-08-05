@@ -1,33 +1,123 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" role="img" aria-label="Matin — Python · HTML · CSS · JavaScript">
   <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0891b2"/>
+    <!-- گرادیان اصلی پس‌زمینه -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="55%" stop-color="#e0f2fe"/>
+      <stop offset="100%" stop-color="#ede9fe"/>
+    </linearGradient>
+
+    <!-- گرادیان اسم -->
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#0891b2"/>
       <stop offset="100%" stop-color="#7c3aed"/>
     </linearGradient>
-    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0f172a"/>
-      <stop offset="100%" stop-color="#0891b2"/>
+
+    <!-- گرادیان نوار -->
+    <linearGradient id="bar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0891b2"/>
+      <stop offset="50%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#ec4899"/>
     </linearGradient>
+
+    <!-- هاله‌ها (glow) -->
+    <radialGradient id="glow1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow3" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ec4899" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#ec4899" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- بلور شیشه‌ای -->
+    <linearGradient id="glass" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.15"/>
+    </linearGradient>
+
+    <!-- الگوی نقطه‌چین -->
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#0891b2" opacity="0.12"/>
+    </pattern>
   </defs>
 
   <!-- پس‌زمینه -->
-  <rect width="900" height="200" fill="#ffffff"/>
+  <rect width="900" height="240" fill="url(#bg)"/>
 
-  <!-- نوار گرادیان بالای بنر -->
-  <rect x="0" y="0" width="900" height="6" fill="url(#grad)"/>
+  <!-- الگوی نقطه‌چین -->
+  <rect width="900" height="240" fill="url(#dots)"/>
 
-  <!-- دایره‌های تزئینی -->
-  <circle cx="820" cy="40" r="70" fill="#0891b2" opacity="0.08"/>
-  <circle cx="860" cy="150" r="50" fill="#7c3aed" opacity="0.08"/>
-  <circle cx="60" cy="170" r="45" fill="#10b981" opacity="0.07"/>
+  <!-- هاله‌ها -->
+  <circle cx="820" cy="30" r="140" fill="url(#glow1)"/>
+  <circle cx="90" cy="210" r="150" fill="url(#glow2)"/>
+  <circle cx="640" cy="210" r="120" fill="url(#glow3)"/>
 
-  <!-- اسم -->
-  <text x="70" y="105" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="800" fill="url(#textGrad)">Matin</text>
-  <text x="70" y="145" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#64748b">Python · HTML · CSS · JavaScript</text>
+  <!-- نوار گرادیان بالا -->
+  <rect x="0" y="0" width="900" height="6" fill="url(#bar)"/>
 
-  <!-- ایموجی/آیکون -->
-  <text x="770" y="120" font-size="64">🚀</text>
+  <!-- ===== اشکال بلور (شیشه‌ای) ===== -->
+  <!-- شش‌ضلعی بزرگ -->
+  <g transform="translate(770, 130)" opacity="0.9">
+    <polygon points="0,-70 60,-35 60,35 0,70 -60,35 -60,-35" fill="url(#glass)" stroke="#7c3aed" stroke-opacity="0.35" stroke-width="1.5"/>
+    <polygon points="0,-48 41,-24 41,24 0,48 -41,24 -41,-24" fill="#8b5cf6" opacity="0.12"/>
+    <text x="0" y="10" text-anchor="middle" font-size="30" font-family="'Fira Code','Consolas',monospace" fill="#7c3aed" opacity="0.85">&lt;/&gt;</text>
+  </g>
 
-  <!-- خط پایین -->
-  <rect x="70" y="160" width="200" height="3" rx="1.5" fill="url(#grad)"/>
+  <!-- دایره‌های کوچک -->
+  <circle cx="120" cy="52" r="10" fill="#0891b2" opacity="0.15"/>
+  <circle cx="146" cy="52" r="10" fill="#7c3aed" opacity="0.15"/>
+  <circle cx="133" cy="70" r="10" fill="#ec4899" opacity="0.15"/>
+
+  <!-- مثلث‌ها -->
+  <polygon points="30,180 55,150 80,180" fill="#0891b2" opacity="0.1"/>
+  <polygon points="560,40 580,15 600,40" fill="#7c3aed" opacity="0.12"/>
+  <polygon points="880,190 900,160 920,190" fill="#ec4899" opacity="0.1" transform="translate(-30,0)"/>
+
+  <!-- خطوط مداری -->
+  <ellipse cx="820" cy="130" rx="110" ry="42" fill="none" stroke="#7c3aed" stroke-opacity="0.2" stroke-width="1.2" transform="rotate(-12, 820, 130)"/>
+  <circle cx="755" cy="118" r="4" fill="#8b5cf6" opacity="0.5"/>
+  <circle cx="885" cy="142" r="3" fill="#06b6d4" opacity="0.5"/>
+
+  <!-- ===== متن اصلی ===== -->
+  <text x="58" y="95" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="800" fill="url(#nameGrad)" letter-spacing="1">Matin</text>
+
+  <!-- خط تزئینی زیر اسم -->
+  <rect x="60" y="112" width="210" height="4" rx="2" fill="url(#bar)"/>
+
+  <!-- عنوان -->
+  <text x="58" y="140" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#334155" font-weight="600">Builder · Coder · Vibe engineer</text>
+
+  <!-- تکنولوژی‌ها -->
+  <text x="58" y="170" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#64748b">Python</text>
+  <circle cx="118" cy="166" r="2.5" fill="#94a3b8"/>
+  <text x="128" y="170" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#64748b">HTML</text>
+  <circle cx="182" cy="166" r="2.5" fill="#94a3b8"/>
+  <text x="192" y="170" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#64748b">CSS</text>
+  <circle cx="238" cy="166" r="2.5" fill="#94a3b8"/>
+  <text x="248" y="170" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#64748b">JavaScript</text>
+
+  <!-- ===== کارت‌های پایین ===== -->
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+    <!-- کارت ۱ -->
+    <rect x="58" y="190" width="108" height="34" rx="8" fill="#ffffff" opacity="0.65" stroke="#0891b2" stroke-opacity="0.3" stroke-width="1"/>
+    <text x="112" y="211" text-anchor="middle" font-size="12" fill="#0891b2" font-weight="700">34+ PROJECTS</text>
+
+    <!-- کارت ۲ -->
+    <rect x="176" y="190" width="120" height="34" rx="8" fill="#ffffff" opacity="0.65" stroke="#7c3aed" stroke-opacity="0.3" stroke-width="1"/>
+    <text x="236" y="211" text-anchor="middle" font-size="12" fill="#7c3aed" font-weight="700">28 LIVE SITES</text>
+
+    <!-- کارت ۳ -->
+    <rect x="306" y="190" width="130" height="34" rx="8" fill="#ffffff" opacity="0.65" stroke="#ec4899" stroke-opacity="0.3" stroke-width="1"/>
+    <text x="371" y="211" text-anchor="middle" font-size="12" fill="#ec4899" font-weight="700">100% HANDCRAFTED</text>
+  </g>
+
+  <!-- گوشه‌های تزئینی پایین -->
+  <rect x="0" y="234" width="40" height="6" fill="url(#bar)"/>
+  <rect x="860" y="234" width="40" height="6" fill="url(#bar)"/>
 </svg>

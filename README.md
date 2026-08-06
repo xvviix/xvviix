@@ -1,4 +1,4 @@
-<img width="1907" height="990" alt="image" src="https://github.com/user-attachments/assets/3714a23d-51d3-4542-904e-2ddb33887126" /><p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/light.svg" alt="Matin" width="100%"/>
 </p>
 

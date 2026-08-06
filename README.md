@@ -65,6 +65,9 @@
   <a href="https://github.com/xvviix/Weather-app">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=Weather-app&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
   </a>
+  <a href="https://github.com/xvviix/aurelian-university">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=aurelian-university&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
+  </a>
 </p>
 
 ---
@@ -129,6 +132,12 @@ down, there are screenshots. 👇
 | [ashford-whitmore](https://github.com/xvviix/ashford-whitmore) | Cinematic editorial site for a Berlin law firm |
 | [copperline-plumbing](https://github.com/xvviix/copperline-plumbing) | Trade services site — clean and trustworthy |
 
+### 🎓 Education & Institutions
+
+| Project | What it is |
+|---------|-----------|
+| [aurelian-university](https://github.com/xvviix/aurelian-university) | Premium university site — editorial heritage, cinematic campus, built vanilla |
+
 ### 🐍 Python Apps
 
 | Project | What it is |
@@ -146,7 +155,7 @@ Every site below is deployed on GitHub Pages — click the name to open it:
 
 <div align="center">
 
-<a href="https://github.com/xvviix/sky-route"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/sky-route.jpg" width="46%" alt="SkyRoute Airlines"/></a> <a href="https://github.com/xvviix/ember-oak"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/ember-oak.jpg" width="46%" alt="Ember & Oak — Coffee"/></a>
+<a href="https://github.com/xvviix/aurelian-university"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/aurelian-university.jpg" width="46%" alt="Aurelian University"/></a> <a href="https://github.com/xvviix/sky-route"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/sky-route.jpg" width="46%" alt="SkyRoute Airlines"/></a> <a href="https://github.com/xvviix/ember-oak"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/ember-oak.jpg" width="46%" alt="Ember & Oak — Coffee"/></a>
 
 <a href="https://github.com/xvviix/hearth-and-rye"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/hearth-and-rye.jpg" width="46%" alt="Hearth & Rye — Bakery"/></a> <a href="https://github.com/xvviix/linden-apotheke"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/linden-apotheke.jpg" width="46%" alt="Linden Apotheke — Pharmacy"/></a>
 

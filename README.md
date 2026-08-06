@@ -62,8 +62,8 @@
   <a href="https://github.com/xvviix/nail-salon">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=nail-salon&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
   </a>
-  <a href="https://github.com/xvviix/Weather-app">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=Weather-app&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
+  <a href="https://github.com/xvviix/ashford-whitmore">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=ashford-whitmore&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
   </a>
   <a href="https://github.com/xvviix/aurelian-university">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=aurelian-university&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>

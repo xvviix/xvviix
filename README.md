@@ -94,8 +94,6 @@
   </a>
 </p>
 
-> Pins are easy to change — just hit **Customize your pins** on my profile.
-
 ---
 
 ## 🧱 What I build

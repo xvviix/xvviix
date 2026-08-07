@@ -21,6 +21,33 @@
 
 ---
 
+<h3 align="center">🧬 Latest — CHRONA · Biological Age Intelligence</h3>
+
+<p align="center">
+  <b>Measure the age that matters.</b><br>
+  Clinical-grade aging analytics: Chrona Index™, nine organ clocks, pace of aging and
+  intervention modelling — delivered through one versioned API.
+</p>
+
+<p align="center">
+  <a href="https://xvviix.github.io/chrona-bio/"><b>◆ Live site</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/xvviix/chrona-bio"><b>Repo</b></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-live-4FE0B0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/dependencies-0-7c3aed?style=flat-square"/>
+  <img src="https://img.shields.io/badge/charts-hand--authored%20SVG-0891b2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/a11y-reduced--motion%20%C2%B7%20keyboard-f59e0b?style=flat-square"/>
+</p>
+
+<p align="center">
+  <sub>Interactive biological-age estimator that runs entirely in the browser · nine-system
+  organ radial · zero frameworks, zero build step.</sub>
+</p>
+
+---
+
 ### 📊 The numbers
 
 <p align="center">
@@ -47,6 +74,9 @@
 ### 📌 Featured work
 
 <p align="center">
+  <a href="https://github.com/xvviix/chrona-bio">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=chrona-bio&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
+  </a>
   <a href="https://github.com/xvviix/pdf-toolkit-fa">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=pdf-toolkit-fa&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
   </a>
@@ -129,6 +159,7 @@ down, there are screenshots. 👇
 
 | Project | What it is |
 |---------|-----------|
+| [chrona-bio](https://github.com/xvviix/chrona-bio) | **CHRONA** — biological age intelligence for clinical teams; interactive estimator + hand-authored SVG data-viz |
 | [sterling-longevity-clinic](https://github.com/xvviix/sterling-longevity-clinic) | Longevity clinic — clean medical + modern |
 | [aurea-dental](https://github.com/xvviix/aurea-dental) | Berlin dental clinic — trustworthy, bright |
 | [linden-apotheke](https://github.com/xvviix/linden-apotheke) | Pharmacy — handcrafted, professional |

@@ -211,12 +211,10 @@ Every site below is deployed on GitHub Pages — click the name to open it:
 <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
-**No frameworks, no build tools.** Every site is vanilla HTML/CSS/JS — it loads fast, deploys in one push, and doesn't break.
+**Every site is vanilla HTML/CSS/JS — it loads fast, deploys in one push, and doesn't break.**
 
 ---
 
 <div align="center">
-
-*Built by hand, one file at a time.*
 
 </div>

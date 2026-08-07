@@ -92,9 +92,6 @@
   <a href="https://github.com/xvviix/ember-oak">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=ember-oak&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
   </a>
-  <a href="https://github.com/xvviix/Weather-app">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=Weather-app&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
-  </a>
 </p>
 
 > Pins are easy to change — just hit **Customize your pins** on my profile.

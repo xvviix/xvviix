@@ -74,14 +74,14 @@
 ### 📌 Featured work
 
 <p align="center">
-  <a href="https://github.com/xvviix/chrona-bio">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=chrona-bio&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
-  </a>
   <a href="https://github.com/xvviix/pdf-toolkit-fa">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=pdf-toolkit-fa&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
   </a>
   <a href="https://github.com/xvviix/pdf-toolkit-en">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=pdf-toolkit-en&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
+  </a>
+  <a href="https://github.com/xvviix/chrona-bio">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=chrona-bio&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
   </a>
   <a href="https://github.com/xvviix/aether">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=aether&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>

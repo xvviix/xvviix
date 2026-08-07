@@ -65,6 +65,9 @@
   <a href="https://github.com/xvviix/aurelian-university">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=aurelian-university&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
   </a>
+  <a href="https://github.com/xvviix/forma-os">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=forma-os&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
+  </a>
 </p>
 
 ---
@@ -135,6 +138,12 @@ down, there are screenshots. 👇
 |---------|-----------|
 | [aurelian-university](https://github.com/xvviix/aurelian-university) | Premium university site — editorial heritage, cinematic campus, built vanilla |
 
+### 💻 Tech & SaaS
+
+| Project | What it is |
+|---------|-----------|
+| [forma-os](https://github.com/xvviix/forma-os) | FORMA — operating system for ambitious software teams, premium dark SaaS landing |
+
 ### 🐍 Python Apps
 
 | Project | What it is |
@@ -201,3 +210,4 @@ Every site below is deployed on GitHub Pages — click the name to open it:
 <div align="center">
 
 </div>
+

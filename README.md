@@ -19,6 +19,8 @@
   A few Python apps on the side, mostly desktop tools with real use cases.
 </p>
 
+---
+
 ### 📊 The numbers
 
 <p align="center">

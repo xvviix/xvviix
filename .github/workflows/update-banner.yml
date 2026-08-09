@@ -66,13 +66,20 @@ jobs:
       - name: Update light.svg with current numbers
         run: |
           python3 - <<'EOF'
-          import os
+          import os, re
           path = "light.svg"
           src = open(path, encoding="utf-8").read()
-          src = src.replace("__PROJECTS__",  os.environ["TOTAL"])
-          src = src.replace("__LIVE_SITES__", os.environ["LIVE"])
-          src = src.replace("__STARS__",     os.environ["STARS"])
-          src = src.replace("__FOLLOWERS__", os.environ["FOLLOWERS"])
+          total, live, stars, followers = (
+              os.environ["TOTAL"], os.environ["LIVE"],
+              os.environ["STARS"], os.environ["FOLLOWERS"],
+          )
+          # placeholders (first run) and baked numbers (later runs) both work
+          src = src.replace("__PROJECTS__", total).replace("__LIVE_SITES__", live)
+          src = src.replace("__STARS__", stars).replace("__FOLLOWERS__", followers)
+          src = re.sub(r"\d+\+ PROJECTS",   total + "+ PROJECTS",   src)
+          src = re.sub(r"\d+ LIVE",         live + " LIVE",         src)
+          src = re.sub(r"★ \d+ STARS",      "★ " + stars + " STARS", src)
+          src = re.sub(r"\d+ FOLLOWERS",    followers + " FOLLOWERS", src)
           open(path, "w", encoding="utf-8").write(src)
           print("Updated light.svg")
           EOF

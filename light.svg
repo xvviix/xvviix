@@ -105,19 +105,19 @@
   <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
     <!-- کارت ۱: پروژه‌ها -->
     <rect x="58" y="190" width="118" height="34" rx="8" fill="#ffffff" opacity="0.65" stroke="#0891b2" stroke-opacity="0.3" stroke-width="1"/>
-    <text x="117" y="211" text-anchor="middle" font-size="12" fill="#0891b2" font-weight="700">36+ PROJECTS</text>
+    <text x="117" y="211" text-anchor="middle" font-size="12" fill="#0891b2" font-weight="700">55+ PROJECTS</text>
 
     <!-- کارت ۲: سایت‌های زنده -->
     <rect x="186" y="190" width="132" height="34" rx="8" fill="#ffffff" opacity="0.65" stroke="#7c3aed" stroke-opacity="0.3" stroke-width="1"/>
-    <text x="252" y="211" text-anchor="middle" font-size="12" fill="#7c3aed" font-weight="700">31 LIVE</text>
+    <text x="252" y="211" text-anchor="middle" font-size="12" fill="#7c3aed" font-weight="700">49 LIVE</text>
 
     <!-- کارت ۳: ستاره‌ها -->
     <rect x="328" y="190" width="120" height="34" rx="8" fill="#ffffff" opacity="0.65" stroke="#f59e0b" stroke-opacity="0.35" stroke-width="1"/>
-    <text x="388" y="211" text-anchor="middle" font-size="12" fill="#b45309" font-weight="700">★ 37 STARS</text>
+    <text x="388" y="211" text-anchor="middle" font-size="12" fill="#b45309" font-weight="700">★ 111 STARS</text>
 
     <!-- کارت ۴: فالوورها -->
     <rect x="458" y="190" width="140" height="34" rx="8" fill="#ffffff" opacity="0.65" stroke="#ec4899" stroke-opacity="0.3" stroke-width="1"/>
-    <text x="528" y="211" text-anchor="middle" font-size="12" fill="#be185d" font-weight="700">3 FOLLOWERS</text>
+    <text x="528" y="211" text-anchor="middle" font-size="12" fill="#be185d" font-weight="700">6 FOLLOWERS</text>
   </g>
 
   <!-- گوشه‌های تزئینی پایین -->

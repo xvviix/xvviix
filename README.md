@@ -65,6 +65,9 @@
   <a href="https://github.com/xvviix/ember-oak">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=ember-oak&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
   </a>
+  <a href="https://github.com/xvviix/batch-image-resizer">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=batch-image-resizer&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
+  </a>
 </p>
 
 ---
@@ -81,12 +84,17 @@ down, there are screenshots. 👇
 |---------|-----------|
 | [aether](https://github.com/xvviix/aether) | Premium AI platform — intelligence that feels like yours, award-caliber landing page |
 | [forma-os](https://github.com/xvviix/forma-os) | FORMA — the operating system for ambitious software teams |
+| [aevum-cloud](https://github.com/xvviix/aevum-cloud) | Aevum Cloud — premium, editorial cloud-storage landing page |
 
 ### 🎓 Education
 
 | Project | What it is |
 |---------|-----------|
 | [aurelian-university](https://github.com/xvviix/aurelian-university) | Premium university site — editorial heritage, cinematic campus |
+| [ultimate-html-en](https://github.com/xvviix/ultimate-html-en) / [ultimate-html-fa](https://github.com/xvviix/ultimate-html-fa) | Complete HTML5 mastery course — English & Persian editions |
+| [ultimate-css-en](https://github.com/xvviix/ultimate-css-en) / [ultimate-css-fa](https://github.com/xvviix/ultimate-css-fa) | Complete CSS3 mastery course — English & Persian editions |
+| [ultimate-js-en](https://github.com/xvviix/ultimate-js-en) / [ultimate-js-fa](https://github.com/xvviix/ultimate-js-fa) | Complete JavaScript mastery course — English & Persian editions |
+| [Human-life](https://github.com/xvviix/Human-life) | Interactive site about human life — with a resource calculator |
 
 ### 🏗️ Construction & Real Estate
 
@@ -107,6 +115,17 @@ down, there are screenshots. 👇
 | [sky-route](https://github.com/xvviix/sky-route) | Airline landing page with flight search, dark glassmorphism UI |
 | [ferdows-grand-hotel](https://github.com/xvviix/ferdows-grand-hotel) | Grand hotel — elegant, booking-focused |
 | [Freshmart](https://github.com/xvviix/Freshmart) | Grocery storefront with a bright, fresh look |
+
+### 🇮🇷 Persian sites
+
+| Project | What it is |
+|---------|-----------|
+| [lajevard-tea-house](https://github.com/xvviix/lajevard-tea-house) | چایخانهٔ لاجورد — لوکس، اصیل و کاملاً فارسی |
+| [nova-mobile-gallery](https://github.com/xvviix/nova-mobile-gallery) | نووا — گالری موبایل پریمیوم، طراحی سطح Awwwards |
+| [ketabnegar-bookstore](https://github.com/xvviix/ketabnegar-bookstore) | کتاب‌نگار — فروشگاه کتاب با طراحی جایزه‌ای |
+| [hirkan-luxury-camping](https://github.com/xvviix/hirkan-luxury-camping) | هیرکان — کمپینگ لوکس و تجهیزات طبیعت‌گردی |
+| [volt-gaming-store](https://github.com/xvviix/volt-gaming-store) | VOLT — فروشگاه تجهیزات گیمینگ نسل بعد |
+| [sedra-premium](https://github.com/xvviix/sedra-premium) | سدرا — فروشگاه لپ‌تاپ، لندینگ پریمیوم فارسی |
 
 ### 💈 Salons, Style & Beauty
 
@@ -151,6 +170,7 @@ down, there are screenshots. 👇
 |---------|-----------|
 | [pdf-toolkit-fa](https://github.com/xvviix/pdf-toolkit-fa) | Full PDF utility (Persian UI) — split, merge, convert + **OCR that reads names off scanned docs and names the files for you** |
 | [pdf-toolkit-en](https://github.com/xvviix/pdf-toolkit-en) | Same toolkit, English UI |
+| [batch-image-resizer](https://github.com/xvviix/batch-image-resizer) | Batch Image Resizer v11 — batch resize, shape crop, edge trim + **final report window** |
 | [Weather-app](https://github.com/xvviix/Weather-app) | Real-time desktop weather app in Python + Tkinter |
 | [rock_paper_scissors](https://github.com/xvviix/rock_paper_scissors) | Classic game, terminal-based |
 
@@ -162,7 +182,7 @@ Every site below is deployed on GitHub Pages — click the name to open it:
 
 <div align="center">
 
-<a href="https://github.com/xvviix/aether"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/aether-architecture.jpg" width="46%" alt="Aether"/></a> <a href="https://github.com/xvviix/sky-route"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/sky-route.jpg" width="46%" alt="SkyRoute Airlines"/></a>
+<a href="https://github.com/xvviix/aether"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/aether.jpg" width="46%" alt="Aether AI Platform"/></a> <a href="https://github.com/xvviix/sky-route"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/sky-route.jpg" width="46%" alt="SkyRoute Airlines"/></a>
 
 <a href="https://github.com/xvviix/ember-oak"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/ember-oak.jpg" width="46%" alt="Ember & Oak — Coffee"/></a> <a href="https://github.com/xvviix/hearth-and-rye"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/hearth-and-rye.jpg" width="46%" alt="Hearth & Rye — Bakery"/></a>
 
@@ -191,6 +211,20 @@ Every site below is deployed on GitHub Pages — click the name to open it:
 <a href="https://github.com/xvviix/photography-portfolio"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/photography-portfolio.jpg" width="46%" alt="Photography Portfolio"/></a> <a href="https://github.com/xvviix/travel-agency"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/travel-agency.jpg" width="46%" alt="Auora Voyages"/></a>
 
 <a href="https://github.com/xvviix/Freshmart"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/Freshmart.jpg" width="46%" alt="Freshmart"/></a> <a href="https://github.com/xvviix/aurelian-university"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/aurelian-university.jpg" width="46%" alt="Aurelian University"/></a>
+
+<a href="https://github.com/xvviix/Human-life"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/Human-life.jpg" width="46%" alt="Human Life"/></a> <a href="https://github.com/xvviix/ferdows-grand-hotel"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/ferdows-grand-hotel.jpg" width="46%" alt="Ferdows Grand Hotel"/></a>
+
+<a href="https://github.com/xvviix/eclat"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/eclat.jpg" width="46%" alt="ÉCLAT Flower Atelier"/></a> <a href="https://github.com/xvviix/forma-os"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/forma-os.jpg" width="46%" alt="FORMA OS"/></a>
+
+<a href="https://github.com/xvviix/voltaic-engineering"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/voltaic-engineering.jpg" width="46%" alt="Voltaic Engineering"/></a> <a href="https://github.com/xvviix/chrona-bio"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/chrona-bio.jpg" width="46%" alt="CHRONA Bio"/></a>
+
+<a href="https://github.com/xvviix/aevum-cloud"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/aevum-cloud.jpg" width="46%" alt="Aevum Cloud"/></a> <a href="https://github.com/xvviix/lajevard-tea-house"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/lajevard-tea-house.jpg" width="46%" alt="چایخانهٔ لاجورد"/></a>
+
+<a href="https://github.com/xvviix/nova-mobile-gallery"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/nova-mobile-gallery.jpg" width="46%" alt="NOVA Mobile Gallery"/></a> <a href="https://github.com/xvviix/ketabnegar-bookstore"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/ketabnegar-bookstore.jpg" width="46%" alt="کتاب‌نگار"/></a>
+
+<a href="https://github.com/xvviix/hirkan-luxury-camping"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/hirkan-luxury-camping.jpg" width="46%" alt="هیرکان کمپینگ"/></a> <a href="https://github.com/xvviix/volt-gaming-store"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/volt-gaming-store.jpg" width="46%" alt="VOLT Gaming"/></a>
+
+<a href="https://github.com/xvviix/sedra-premium"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/sedra-premium.jpg" width="46%" alt="Sedra Premium"/></a> <a href="https://github.com/xvviix/ultimate-html-fa"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/ultimate-html-fa.jpg" width="46%" alt="Ultimate HTML Course"/></a>
 
 </div>
 

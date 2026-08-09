@@ -267,7 +267,7 @@ Every site below is deployed on GitHub Pages — click on them to open it:
 
 </div>
 
-> Every site below is live on GitHub Pages — just browse my [repos](https://github.com/xvviix?tab=repositories), every one of them has a working demo link.
+> Every site up here is live on GitHub Pages — just browse my [repos](https://github.com/xvviix?tab=repositories), every one of them has a working demo link.
 
 ---
 

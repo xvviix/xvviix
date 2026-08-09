@@ -116,8 +116,8 @@
 
 ## 🧱 What I build
 
-Mostly **handcrafted static websites** — each one designed from scratch, zero
-frameworks, zero dependencies. A lot of them are live on GitHub Pages. Scroll
+Mostly **premium static websites** — each one designed from scratch, zero
+frameworks, zero dependencies. All of them are live on GitHub Pages. Scroll
 down, there are screenshots. 👇
 
 ### ⚡ AI & Platforms
@@ -188,7 +188,7 @@ down, there are screenshots. 👇
 | [chrona-bio](https://github.com/xvviix/chrona-bio) | **CHRONA** — biological age intelligence for clinical teams; interactive estimator + hand-authored SVG data-viz |
 | [sterling-longevity-clinic](https://github.com/xvviix/sterling-longevity-clinic) | Longevity clinic — clean medical + modern |
 | [aurea-dental](https://github.com/xvviix/aurea-dental) | Berlin dental clinic — trustworthy, bright |
-| [linden-apotheke](https://github.com/xvviix/linden-apotheke) | Pharmacy — handcrafted, professional |
+| [linden-apotheke](https://github.com/xvviix/linden-apotheke) | Pharmacy — premium, professional |
 | [kai-lennox](https://github.com/xvviix/kai-lennox) | Elite performance coaching — bold, motivational |
 | [fitness-gym](https://github.com/xvviix/fitness-gym) | Apexfit gym — high-energy, dark |
 | [voltaic-engineering](https://github.com/xvviix/voltaic-engineering) | Smart energy & luxury electrical systems |
@@ -217,7 +217,7 @@ down, there are screenshots. 👇
 
 ## 🖼️ Projects, live
 
-Every site below is deployed on GitHub Pages — click the name to open it:
+Every site below is deployed on GitHub Pages — click on them to open it:
 
 <div align="center">
 
@@ -267,7 +267,7 @@ Every site below is deployed on GitHub Pages — click the name to open it:
 
 </div>
 
-> Every site below is live on GitHub Pages — just browse my [repos](https://github.com/xvviix?tab=repositories), almost every one has a working demo link.
+> Every site below is live on GitHub Pages — just browse my [repos](https://github.com/xvviix?tab=repositories), every one of them has a working demo link.
 
 ---
 

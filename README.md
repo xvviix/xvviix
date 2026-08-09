@@ -72,6 +72,48 @@
 
 ---
 
+## 🎓 Ultimate Web Development Courses
+
+<p align="center">
+  <b>Full web dev courses — from absolute zero to real projects.</b><br/>
+  Three subjects, each taught in <b>English</b> and <b>Persian</b>. Phased curriculum, hands-on examples, no paywall.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/English%20Edition-0ea5e9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Persian%20Edition-10b981?style=flat-square"/>
+</p>
+
+| Topic | English | فارسی |
+|:------|:--------|:------|
+| **HTML5** — semantics, forms, media, modern tags | [Ultimate HTML](https://github.com/xvviix/ultimate-html-en) · [live](https://xvviix.github.io/ultimate-html-en/) | [آموزش HTML](https://github.com/xvviix/ultimate-html-fa) · [لایو](https://xvviix.github.io/ultimate-html-fa/) |
+| **CSS3** — design, flexbox/grid, animation | [Ultimate CSS](https://github.com/xvviix/ultimate-css-en) · [live](https://xvviix.github.io/ultimate-css-en/) | [آموزش CSS](https://github.com/xvviix/ultimate-css-fa) · [لایو](https://xvviix.github.io/ultimate-css-fa/) |
+| **JavaScript** — logic, DOM, modern JS | [Ultimate JS](https://github.com/xvviix/ultimate-js-en) · [live](https://xvviix.github.io/ultimate-js-en/) | [آموزش JS](https://github.com/xvviix/ultimate-js-fa) · [لایو](https://xvviix.github.io/ultimate-js-fa/) |
+
+**What's inside** — every course is a full roadmap, not a pile of random videos:
+
+- 🗺️ **Phased curriculum** — HTML goes from tags → semantic markup → modern features; CSS from styling → flex/grid layout → animation; JS from basics → DOM → advanced topics
+- 🌍 **Two editions** — the same lessons in English and Persian, so you can learn in whichever language clicks
+- 🧪 **Live examples** — every concept comes with something you can open and play with
+- 🆓 **Free forever** — no sign-up, no paywall, no "part two is paid"
+
+**Course previews:**
+
+<div align="center">
+
+<a href="https://github.com/xvviix/ultimate-html-en"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/ultimate-html-en.jpg" width="46%" alt="Ultimate HTML — English"/></a> <a href="https://github.com/xvviix/ultimate-html-fa"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/ultimate-html-fa.jpg" width="46%" alt="Ultimate HTML — Persian"/></a>
+
+<a href="https://github.com/xvviix/ultimate-css-en"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/ultimate-css-en.jpg" width="46%" alt="Ultimate CSS — English"/></a> <a href="https://github.com/xvviix/ultimate-css-fa"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/ultimate-css-fa.jpg" width="46%" alt="Ultimate CSS — Persian"/></a>
+
+<a href="https://github.com/xvviix/ultimate-js-en"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/ultimate-js-en.jpg" width="46%" alt="Ultimate JS — English"/></a> <a href="https://github.com/xvviix/ultimate-js-fa"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/ultimate-js-fa.jpg" width="46%" alt="Ultimate JS — Persian"/></a>
+
+</div>
+
+---
+
 ## 🧱 What I build
 
 Mostly **handcrafted static websites** — each one designed from scratch, zero
@@ -91,9 +133,6 @@ down, there are screenshots. 👇
 | Project | What it is |
 |---------|-----------|
 | [aurelian-university](https://github.com/xvviix/aurelian-university) | Premium university site — editorial heritage, cinematic campus |
-| [ultimate-html-en](https://github.com/xvviix/ultimate-html-en) / [ultimate-html-fa](https://github.com/xvviix/ultimate-html-fa) | Complete HTML5 mastery course — English & Persian editions |
-| [ultimate-css-en](https://github.com/xvviix/ultimate-css-en) / [ultimate-css-fa](https://github.com/xvviix/ultimate-css-fa) | Complete CSS3 mastery course — English & Persian editions |
-| [ultimate-js-en](https://github.com/xvviix/ultimate-js-en) / [ultimate-js-fa](https://github.com/xvviix/ultimate-js-fa) | Complete JavaScript mastery course — English & Persian editions |
 | [Human-life](https://github.com/xvviix/Human-life) | Interactive site about human life — with a resource calculator |
 
 ### 🏗️ Construction & Real Estate
@@ -224,7 +263,7 @@ Every site below is deployed on GitHub Pages — click the name to open it:
 
 <a href="https://github.com/xvviix/hirkan-luxury-camping"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/hirkan-luxury-camping.jpg" width="46%" alt="هیرکان کمپینگ"/></a> <a href="https://github.com/xvviix/volt-gaming-store"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/volt-gaming-store.jpg" width="46%" alt="VOLT Gaming"/></a>
 
-<a href="https://github.com/xvviix/sedra-premium"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/sedra-premium.jpg" width="46%" alt="Sedra Premium"/></a> <a href="https://github.com/xvviix/ultimate-html-fa"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/ultimate-html-fa.jpg" width="46%" alt="Ultimate HTML Course"/></a>
+<a href="https://github.com/xvviix/sedra-premium"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/sedra-premium.jpg" width="46%" alt="Sedra Premium"/></a>
 
 </div>
 

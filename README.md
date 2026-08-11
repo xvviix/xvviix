@@ -47,26 +47,23 @@
 ### 📌 Featured work
 
 <p align="center">
-  <a href="https://github.com/xvviix/pdf-toolkit-fa">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=pdf-toolkit-fa&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
+  <a href="https://github.com/xvviix/ultimate-js-en">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=ultimate-js-en&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
   </a>
-  <a href="https://github.com/xvviix/pdf-toolkit-en">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=pdf-toolkit-en&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
+  <a href="https://github.com/xvviix/ultimate-css-en">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=ultimate-css-en&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
   </a>
-  <a href="https://github.com/xvviix/chrona-bio">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=chrona-bio&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
+  <a href="https://github.com/xvviix/ultimate-html-en">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=ultimate-html-en&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
   </a>
-  <a href="https://github.com/xvviix/aether">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=aether&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
+  <a href="https://github.com/xvviix/ultimate-js-fa">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=ultimate-js-fa&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
   </a>
-  <a href="https://github.com/xvviix/sky-route">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=sky-route&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
+  <a href="https://github.com/xvviix/ultimate-css-fa">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=ultimate-css-fa&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
   </a>
-  <a href="https://github.com/xvviix/ember-oak">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=ember-oak&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
-  </a>
-  <a href="https://github.com/xvviix/batch-image-resizer">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=batch-image-resizer&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
+  <a href="https://github.com/xvviix/ultimate-html-fa">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=ultimate-html-fa&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
   </a>
 </p>
 

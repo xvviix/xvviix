@@ -86,9 +86,9 @@
 
 | Topic | English | فارسی |
 |:-------|:--------|:------|
-| **HTML5** — semantics, forms, media, modern tags       | [Ultimate HTML](https://github.com/xvviix/ultimate-html-en) ------ [live](https://xvviix.github.io/ultimate-html-en/) | [آموزش HTML](https://github.com/xvviix/ultimate-html-fa) ------ [لایو](https://xvviix.github.io/ultimate-html-fa/) |
-| **CSS3** — design, flexbox/grid, animation       | [Ultimate CSS](https://github.com/xvviix/ultimate-css-en) ------ [live](https://xvviix.github.io/ultimate-css-en/) | [آموزش CSS](https://github.com/xvviix/ultimate-css-fa) ------ [لایو](https://xvviix.github.io/ultimate-css-fa/) |
-| **JavaScript** — logic, DOM, modern JS       | [Ultimate JS](https://github.com/xvviix/ultimate-js-en) ------ [live](https://xvviix.github.io/ultimate-js-en/) | [آموزش JS](https://github.com/xvviix/ultimate-js-fa) ------ [لایو](https://xvviix.github.io/ultimate-js-fa/) |
+| **HTML5** — semantics, forms, media, modern tags       | [Ultimate HTML](https://github.com/xvviix/ultimate-html-en) — [live](https://xvviix.github.io/ultimate-html-en/) | [آموزش HTML](https://github.com/xvviix/ultimate-html-fa) — [لایو](https://xvviix.github.io/ultimate-html-fa/) |
+| **CSS3** — design, flexbox/grid, animation       | [Ultimate CSS](https://github.com/xvviix/ultimate-css-en) — [live](https://xvviix.github.io/ultimate-css-en/) | [آموزش CSS](https://github.com/xvviix/ultimate-css-fa) — [لایو](https://xvviix.github.io/ultimate-css-fa/) |
+| **JavaScript** — logic, DOM, modern JS       | [Ultimate JS](https://github.com/xvviix/ultimate-js-en) — [live](https://xvviix.github.io/ultimate-js-en/) | [آموزش JS](https://github.com/xvviix/ultimate-js-fa) — [لایو](https://xvviix.github.io/ultimate-js-fa/) |
 
 **What's inside** — every course is a full roadmap, not a pile of random videos:
 

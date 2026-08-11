@@ -47,7 +47,7 @@
 ### 📌 Featured work
 
 <p align="center">
-  <a href="https://github.com/xvviix/ultimate-js-en">
+  <a href="https://github.com/xvviix/ultimate-html-en">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=ultimate-js-en&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
   </a>
     <a href="https://github.com/xvviix/ultimate-js-fa">
@@ -59,7 +59,7 @@
   <a href="https://github.com/xvviix/ultimate-html-fa">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=ultimate-js-fa&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
   </a>
-  <a href="https://github.com/xvviix/ultimate-html-en">
+  <a href="https://github.com/xvviix/ultimate-js-en">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=ultimate-css-en&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
   </a>
   <a href="https://github.com/xvviix/ultimate-css-fa">

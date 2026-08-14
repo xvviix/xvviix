@@ -15,7 +15,7 @@
 
 <p align="center">
   I like building things that <i>look</i> good and <i>actually work</i>.
-  Mostly handcrafted static sites — no frameworks, no build steps, just clean code.
+  Mostly static sites — no frameworks, no build steps, just clean code.
   A few Python apps on the side, mostly desktop tools with real use cases.
 </p>
 

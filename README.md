@@ -261,9 +261,7 @@ Every site below is deployed on GitHub Pages — click on them to open it:
 
 <a href="https://github.com/xvviix/hirkan-luxury-camping"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/hirkan-luxury-camping.jpg" width="46%" alt="هیرکان کمپینگ"/></a> <a href="https://github.com/xvviix/volt-gaming-store"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/volt-gaming-store.jpg" width="46%" alt="VOLT Gaming"/></a>
 
-<a href="https://github.com/xvviix/sedra-premium"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/sedra-premium.jpg" width="46%" alt="Sedra Premium"/></a>
-
-<a href="https://github.com/xvviix/aryabar-logistics"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/aryabar-logistics.jpg" width="46%" alt="آریابار لجستیک"/></a>
+<a href="https://github.com/xvviix/sedra-premium"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/sedra-premium.jpg" width="46%" alt="Sedra Premium"/></a> <a href="https://github.com/xvviix/aryabar-logistics"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/aryabar-logistics.jpg" width="46%" alt="آریابار لجستیک"/></a>
 
 </div>
 

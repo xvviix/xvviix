@@ -162,6 +162,7 @@ down, there are screenshots. 👇
 | [hirkan-luxury-camping](https://github.com/xvviix/hirkan-luxury-camping) | هیرکان — کمپینگ لوکس و تجهیزات طبیعت‌گردی |
 | [volt-gaming-store](https://github.com/xvviix/volt-gaming-store) | VOLT — فروشگاه تجهیزات گیمینگ نسل بعد |
 | [sedra-premium](https://github.com/xvviix/sedra-premium) | سدرا — فروشگاه لپ‌تاپ، لندینگ پریمیوم فارسی |
+| [aryabar-logistics](https://github.com/xvviix/aryabar-logistics) | آریابار — لجستیک هوشمند، لندینگ پریمیوم فارسی برای شرکت حمل‌ونقل |
 
 ### 💈 Salons, Style & Beauty
 
@@ -261,6 +262,8 @@ Every site below is deployed on GitHub Pages — click on them to open it:
 <a href="https://github.com/xvviix/hirkan-luxury-camping"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/hirkan-luxury-camping.jpg" width="46%" alt="هیرکان کمپینگ"/></a> <a href="https://github.com/xvviix/volt-gaming-store"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/volt-gaming-store.jpg" width="46%" alt="VOLT Gaming"/></a>
 
 <a href="https://github.com/xvviix/sedra-premium"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/sedra-premium.jpg" width="46%" alt="Sedra Premium"/></a>
+
+<a href="https://github.com/xvviix/aryabar-logistics"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/aryabar-logistics.jpg" width="46%" alt="آریابار لجستیک"/></a>
 
 </div>
 

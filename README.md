@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Python intermediate · HTML intermediate · Vibe coder · AI user · High school student</b>
+  <b>Python Intermediate · HTML/CSS/JS Master · Vibe coder · High school student</b>
 </p>
 
 <p align="center">

@@ -5,7 +5,7 @@
 <p align="center">
   <b>Python Intermediate · HTML/CSS/JS Master · Vibe coder · High school student</b>
 </p>
- 
+
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fxvviix%2Fxvviix%2Fmain%2Fstats.json&query=repos&label=repos&color=0891b2&style=flat-square"/>
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fxvviix%2Fxvviix%2Fmain%2Fstats.json&query=live&label=live%20sites&color=7c3aed&style=flat-square"/>

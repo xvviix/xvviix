@@ -2,7 +2,7 @@ name: Update banner numbers
 
 on:
   schedule:
-    - cron: "0 2 * * *"        # هر روز ساعت 02:00 UTC
+    - cron: "0 */2 * * *"      # هر ۲ ساعت (۱۲ بار در روز)
   workflow_dispatch:           # اجرای دستی (دکمه Run workflow)
   push:
     branches: [ main ]

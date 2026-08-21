@@ -24,10 +24,10 @@
 ### 📊 The numbers
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/stats-organization/github-stats-extended">
   <img height="170" src="https://github-stats-extended.vercel.app/api?username=xvviix&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/stats-organization/github-stats-extended">
   <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=xvviix&layout=compact&hide_border=true&title_color=0891b2&text_color=0f172a&bg_color=ffffff&langs_count=6"/>
 </a>
 </p>
@@ -163,6 +163,7 @@ down, there are screenshots. 👇
 | [volt-gaming-store](https://github.com/xvviix/volt-gaming-store) | VOLT — فروشگاه تجهیزات گیمینگ نسل بعد |
 | [sedra-premium](https://github.com/xvviix/sedra-premium) | سدرا — فروشگاه لپ‌تاپ، لندینگ پریمیوم فارسی |
 | [aryabar-logistics](https://github.com/xvviix/aryabar-logistics) | آریابار — لجستیک هوشمند، لندینگ پریمیوم فارسی برای شرکت حمل‌ونقل |
+| [azarcan.github.io](https://github.com/xvviix/azarcan.github.io) | آذرکَن — خانه روشنایی لوکس فارسی، طراحی لندینگ پریمیوم |
 
 ### 💈 Salons, Style & Beauty
 
@@ -190,6 +191,13 @@ down, there are screenshots. 👇
 | [kai-lennox](https://github.com/xvviix/kai-lennox) | Elite performance coaching — bold, motivational |
 | [fitness-gym](https://github.com/xvviix/fitness-gym) | Apexfit gym — high-energy, dark |
 | [voltaic-engineering](https://github.com/xvviix/voltaic-engineering) | Smart energy & luxury electrical systems |
+
+### 🎮 Games & Desktop Tools
+
+| Project | What it is |
+|---------|-----------|
+| [game](https://github.com/xvviix/game) | An HTML game — playable in the browser |
+| [XVVIIX-Launcher](https://github.com/xvviix/XVVIIX-Launcher) | A fast, cinematic, local-first command center for games |
 
 ### 🎨 Portfolios & Brands
 
@@ -262,6 +270,8 @@ Every site below is deployed on GitHub Pages — click on them to open it:
 <a href="https://github.com/xvviix/hirkan-luxury-camping"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/hirkan-luxury-camping.jpg" width="46%" alt="هیرکان کمپینگ"/></a> <a href="https://github.com/xvviix/volt-gaming-store"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/volt-gaming-store.jpg" width="46%" alt="VOLT Gaming"/></a>
 
 <a href="https://github.com/xvviix/sedra-premium"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/sedra-premium.jpg" width="46%" alt="Sedra Premium"/></a> <a href="https://github.com/xvviix/aryabar-logistics"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/aryabar-logistics.jpg" width="46%" alt="آریابار لجستیک"/></a>
+
+<a href="https://github.com/xvviix/azarcan.github.io"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/screenshots/azarcan.github.io.jpg" width="46%" alt="آذرکن — Lighting House"/></a>
 
 </div>
 

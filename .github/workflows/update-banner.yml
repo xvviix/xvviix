@@ -73,15 +73,22 @@ jobs:
               os.environ["TOTAL"], os.environ["LIVE"],
               os.environ["STARS"], os.environ["FOLLOWERS"],
           )
+          # Round DOWN to the nearest 10 so "+N" reads as "at least N"
+          # (e.g. 59 repos -> "+50 PROJECTS", 103 followers -> "+100 FOLLOWERS")
+          def round10(v):
+              return str(int(v) // 10 * 10)
+          total_r, live_r   = round10(total), round10(live)
+          stars_r, follow_r = round10(stars), round10(followers)
+
           # placeholders (first run) and baked numbers (later runs) both work
-          src = src.replace("__PROJECTS__", total).replace("__LIVE_SITES__", live)
-          src = src.replace("__STARS__", stars).replace("__FOLLOWERS__", followers)
-          src = re.sub(r"\d+\+ PROJECTS",   total + "+ PROJECTS",   src)
-          src = re.sub(r"\d+ LIVE",         live + " LIVE",         src)
-          src = re.sub(r"★ \d+ STARS",      "★ " + stars + " STARS", src)
-          src = re.sub(r"\d+ FOLLOWERS",    followers + " FOLLOWERS", src)
+          src = src.replace("__PROJECTS__", total_r + "+").replace("__LIVE_SITES__", live_r + "+")
+          src = src.replace("__STARS__", stars_r + "+").replace("__FOLLOWERS__", follow_r + "+")
+          src = re.sub(r"\d+\+ PROJECTS",   total_r + "+ PROJECTS",   src)
+          src = re.sub(r"\d+ LIVE",         live_r   + "+ LIVE",      src)
+          src = re.sub(r"★ \d+ STARS",      "★ " + stars_r + "+ STARS", src)
+          src = re.sub(r"\d+ FOLLOWERS",    follow_r + "+ FOLLOWERS", src)
           open(path, "w", encoding="utf-8").write(src)
-          print("Updated light.svg")
+          print(f"Updated light.svg ({total_r}+/{live_r}+/{stars_r}+/{follow_r}+)")
           EOF
         env:
           TOTAL: ${{ steps.numbers.outputs.total }}

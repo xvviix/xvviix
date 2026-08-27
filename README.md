@@ -32,8 +32,6 @@
 </a>
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xvviix&theme=github-light&hide_border=true&bg_color=ffffff&color=0891b2&line=7c3aed&point=0f172a" width="100%"/>
-
 ---
 
 ### 🐍 Contribution snake

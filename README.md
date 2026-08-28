@@ -194,7 +194,7 @@ down, there are screenshots. 👇
 
 | Project | What it is |
 |---------|-----------|
-| [game](https://github.com/xvviix/game) | An HTML game — playable in the browser |
+| [game](https://github.com/xvviix/game) | HTML game — playable in the browser |
 | [XVVIIX-Launcher](https://github.com/xvviix/XVVIIX-Launcher) | A fast, cinematic, local-first command center for games |
 
 ### 🎨 Portfolios & Brands

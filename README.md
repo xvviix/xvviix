@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/light.svg" alt="Matin" width="100%"/>
 </p>
 
-<h1>Hello Im Matin. I build <strong>>apps & websites</strong> that looks good and work perfectly.</h1>
+<h1>Hello Im Matin. I build <i>apps & websites</i> that looks good and work perfectly.</h1>
 
 <p align="center">
   <b>Python Intermediate · HTML/CSS/JS Master · Vibe coder · High school student</b>

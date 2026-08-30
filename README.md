@@ -53,24 +53,16 @@
 
 <p align="center">
   <a href="https://xvviix.github.io/xvviix-portfolio/">
-    <img src="https://img.shields.io/badge/▶%20VISIT%20THE%20LIVE%20EXPERIENCE-xvviix.github.io%2Fxvviix-portfolio-d4af37?style=for-the-badge&labelColor=140d02"/>
+    <img src="https://img.shields.io/badge/▶%20LIVE%20DEMO-xvviix.github.io-d4af37?style=for-the-badge&labelColor=140d02"/>
   </a>
-  <br/>
-  <br/>
   <a href="https://github.com/xvviix/xvviix-portfolio">
-    <img src="https://img.shields.io/badge/GITHUB%20REPO-xvviix%2Fxvviix-portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://xvviix.github.io/xvviix-portfolio/">
-    <img src="https://raw.githubusercontent.com/xvviix/xvviix-portfolio/main/public/images/og-card.jpg" alt="XVVIIX — cinematic 3D portfolio" width="95%"/>
+    <img src="https://img.shields.io/badge/GITHUB-xvviix-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/xvviix/xvviix-portfolio">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=xvviix-portfolio&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true" width="95%"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=xvviix-portfolio&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
   </a>
 </p>
 
@@ -159,28 +151,30 @@ Every site below is deployed on GitHub Pages — click to open it:
 
 <table align="center">
   <tr>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64" height="64" title="Python"/><br/><b>Python</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="64" height="64" title="HTML5"/><br/><b>HTML5</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="64" height="64" title="CSS3"/><br/><b>CSS3</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="64" height="64" title="JavaScript"/><br/><b>JavaScript</b></td>
+    <td align="center" width="105"><img src="stack-icons/html5.svg" width="48" height="48" title="HTML5"/><br/><b>HTML5</b></td>
+    <td align="center" width="105"><img src="stack-icons/css3.svg" width="48" height="48" title="CSS3"/><br/><b>CSS3</b></td>
+    <td align="center" width="105"><img src="stack-icons/javascript.svg" width="48" height="48" title="JavaScript"/><br/><b>JavaScript</b></td>
+    <td align="center" width="105"><img src="stack-icons/react.svg" width="48" height="48" title="React"/><br/><b>React</b></td>
+    <td align="center" width="105"><img src="stack-icons/nextjs.svg" width="48" height="48" title="Next.js"/><br/><b>Next.js</b></td>
   </tr>
   <tr>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64" height="64" title="React"/><br/><b>React</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="64" height="64" title="Next.js"/><br/><b>Next.js</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="64" height="64" title="Three.js"/><br/><b>Three.js / R3F</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="64" height="64" title="Node.js"/><br/><b>Node.js</b></td>
+    <td align="center" width="105"><img src="stack-icons/threejs.svg" width="48" height="48" title="Three.js"/><br/><b>Three.js / R3F</b></td>
+    <td align="center" width="105"><img src="stack-icons/nodejs.svg" width="48" height="48" title="Node.js"/><br/><b>Node.js</b></td>
+    <td align="center" width="105"><img src="stack-icons/git.svg" width="48" height="48" title="Git"/><br/><b>Git</b></td>
+    <td align="center" width="105"><img src="stack-icons/github.svg" width="48" height="48" title="GitHub"/><br/><b>GitHub</b></td>
+    <td align="center" width="105"><img src="stack-icons/markdown.svg" width="48" height="48" title="Markdown"/><br/><b>Markdown</b></td>
   </tr>
   <tr>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="64" height="64" title="Git"/><br/><b>Git</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="64" height="64" title="GitHub"/><br/><b>GitHub</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="64" height="64" title="Markdown"/><br/><b>Markdown</b></td>
+    <td align="center" width="105"><img src="stack-icons/python.svg" width="48" height="48" title="Python"/><br/><b>Python</b></td>
+    <td align="center" width="105"><img src="stack-icons/tkinter.svg" width="48" height="48" title="Tkinter"/><br/><b>Tkinter</b></td>
+    <td align="center" width="105"><img src="stack-icons/paddleocr.png" width="48" height="48" title="PaddleOCR"/><br/><b>PaddleOCR</b></td>
+    <td align="center" width="105"><img src="stack-icons/pymupdf.svg" width="78" title="PyMuPDF"/><br/><b>PyMuPDF</b></td>
+    <td align="center" width="105"><img src="stack-icons/pillow.png" width="82" title="Pillow"/><br/><b>Pillow</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="105"><img src="stack-icons/github-actions.svg" width="46" title="GitHub Actions"/><br/><b>GitHub Actions</b></td>
+    <td align="center" width="105"><img src="stack-icons/github-pages.svg" width="46" title="GitHub Pages"/><br/><b>GitHub Pages</b></td>
+    <td align="center" width="105"><img src="stack-icons/lenis.svg" width="46" title="Lenis"/><br/><b>Lenis</b></td>
+    <td align="center" width="105"><img src="stack-icons/json.svg" width="48" height="48" title="JSON-LD and SEO"/><br/><b>JSON-LD &amp; SEO</b></td>
   </tr>
 </table>
-
-<p align="center">
-  <b>Also working with:</b>&nbsp; Tkinter · PaddleOCR · PyMuPDF · Pillow · Lenis · GitHub Actions · GitHub Pages · JSON-LD & SEO
-</p>
-
-<p align="center">
-  <b>Vanilla HTML/CSS/JS for speed and reliability — Next.js + WebGL for the big cinematic pieces.</b>
-</p>

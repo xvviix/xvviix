@@ -61,6 +61,12 @@
 </p>
 
 <p align="center">
+  <a href="https://xvviix.github.io/xvviix-portfolio/">
+    <img src="https://raw.githubusercontent.com/xvviix/xvviix-portfolio/main/public/images/og-card.jpg" alt="XVVIIX — cinematic 3D portfolio" width="70%"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/xvviix/xvviix-portfolio">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=xvviix-portfolio&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
   </a>

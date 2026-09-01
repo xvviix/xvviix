@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://www.gitskins.com/api/section/system-scan?username=xvviix&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F196525606%3Fu%3Dfcd5e4e27b8cca34e6616e1cec1d665d75ecf039%26v%3D4" alt="xvviix system scan" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/light.svg" alt="Matin" width="100%"/>
 </p>
 

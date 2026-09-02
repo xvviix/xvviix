@@ -26,10 +26,10 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          code=$(curl -s -o /tmp/whoami.json -w '%{http_code}' -H "Authorization: Bearer $GH_TOKEN" https://api.github.com/user)
-          echo "api /user -> $code (token length ${#GH_TOKEN})"
-          head -c 300 /tmp/whoami.json
-          echo
+          # rate_limit with a valid token shows core limit 5000 (unauthenticated = 60)
+          curl -s -H "Authorization: Bearer $GH_TOKEN" https://api.github.com/rate_limit \
+            | grep -o '"limit": *[0-9]*' | head -1 | sed 's/^/auth check: /'
+
 
       - name: Generate gitskins/stack.svg
         run: python3 scripts/gen_profile.py stack

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/hero.svg" alt="Matin — hero" width="860"/>
+  <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/system-scan.svg" alt="System scan" width="880"/>
 </p>
 
 <p align="center">
@@ -12,10 +12,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/stats.svg" alt="Live GitHub stats" width="860"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/system-scan.svg" alt="System scan" width="880"/>
 </p>
 
 <p align="center">

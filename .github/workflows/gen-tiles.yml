@@ -1,0 +1,56 @@
+name: Gen live tiles (Gitskins kit)
+
+on:
+  schedule:
+    - cron: "30 * * * *"        # هر ساعت (gen-tiles)
+  workflow_dispatch:           # اجرای دستی (Run workflow)
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gen-tiles
+  cancel-in-progress: false
+
+jobs:
+  gen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Pillow
+        run: python3 -m pip install --quiet pillow
+
+      - name: Verify API token
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # rate_limit with a valid token shows core limit 5000 (unauthenticated = 60)
+          curl -s -H "Authorization: Bearer $GH_TOKEN" https://api.github.com/rate_limit \
+            | grep -o '"limit": *[0-9]*' | head -1 | sed 's/^/auth check: /'
+
+      - name: Generate gitskins/tiles/ + README grid
+        run: python3 scripts/gen_tiles.py
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add gitskins/tiles README.md
+          if git diff --cached --quiet; then
+            echo "No changes — tiles and grid are already up to date."
+          else
+            git commit -m "Auto-update gitskins/tiles (Gitskins kit)"
+            for i in 1 2 3; do
+            if git push; then echo "Pushed."; exit 0; fi
+            echo "push rejected, rebasing (attempt $i)"
+            git pull --rebase origin main || exit 1
+          done
+          exit 1
+          fi

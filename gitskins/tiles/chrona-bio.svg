@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="132" viewBox="0 0 200 132" role="img" aria-label="CHRONA Bio — live site">
+  <defs>
+    <linearGradient id="t-chrona-bio-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#042f2e"/>
+      <stop offset="55%" stop-color="#0c3a37"/>
+      <stop offset="100%" stop-color="#042f2e"/>
+    </linearGradient>
+    <clipPath id="t-chrona-bio-clip"><rect x="8" y="8" width="184" height="97" rx="8"/></clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="199" height="131" rx="12" fill="url(#t-chrona-bio-bg)" stroke="#2dd4bf" stroke-opacity="0.62"/>
+  <g clip-path="url(#t-chrona-bio-clip)">
+    <image href="data:image/jpeg;base64,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" x="8" y="8" width="184" height="97" preserveAspectRatio="xMidYMid slice"/>
+  </g>
+  <rect x="8.5" y="8.5" width="183" height="96" rx="7.5" fill="none" stroke="#ccfbf1" stroke-opacity="0.16"/>
+  <text x="10" y="123" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10.5" font-weight="700" fill="#ccfbf1">CHRONA Bio</text>
+  <circle cx="160" cy="119.5" r="3" fill="#4ade80">
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="190" y="123" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="8" font-weight="800" letter-spacing="1" fill="#4ade80">LIVE</text>
+  <rect x="0.5" y="0.5" width="199" height="131" rx="11.5" fill="none" stroke="#2dd4bf" stroke-opacity="0.35"/>
+</svg>

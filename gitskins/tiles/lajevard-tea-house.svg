@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="132" viewBox="0 0 200 132" role="img" aria-label="چایخانهٔ لاجورد — live site">
+  <defs>
+    <linearGradient id="t-lajevard-tea-house-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#042f2e"/>
+      <stop offset="55%" stop-color="#0c3a37"/>
+      <stop offset="100%" stop-color="#042f2e"/>
+    </linearGradient>
+    <clipPath id="t-lajevard-tea-house-clip"><rect x="8" y="8" width="184" height="97" rx="8"/></clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="199" height="131" rx="12" fill="url(#t-lajevard-tea-house-bg)" stroke="#2dd4bf" stroke-opacity="0.62"/>
+  <g clip-path="url(#t-lajevard-tea-house-clip)">
+    <image href="data:image/jpeg;base64,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" x="8" y="8" width="184" height="97" preserveAspectRatio="xMidYMid slice"/>
+  </g>
+  <rect x="8.5" y="8.5" width="183" height="96" rx="7.5" fill="none" stroke="#ccfbf1" stroke-opacity="0.16"/>
+  <text x="10" y="123" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10.5" font-weight="700" fill="#ccfbf1">چایخانهٔ لاجورد</text>
+  <circle cx="160" cy="119.5" r="3" fill="#4ade80">
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="190" y="123" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="8" font-weight="800" letter-spacing="1" fill="#4ade80">LIVE</text>
+  <rect x="0.5" y="0.5" width="199" height="131" rx="11.5" fill="none" stroke="#2dd4bf" stroke-opacity="0.35"/>
+</svg>

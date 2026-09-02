@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="132" viewBox="0 0 200 132" role="img" aria-label="NOVA Mobile Gallery — live site">
+  <defs>
+    <linearGradient id="t-nova-mobile-gallery-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#042f2e"/>
+      <stop offset="55%" stop-color="#0c3a37"/>
+      <stop offset="100%" stop-color="#042f2e"/>
+    </linearGradient>
+    <clipPath id="t-nova-mobile-gallery-clip"><rect x="8" y="8" width="184" height="97" rx="8"/></clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="199" height="131" rx="12" fill="url(#t-nova-mobile-gallery-bg)" stroke="#2dd4bf" stroke-opacity="0.62"/>
+  <g clip-path="url(#t-nova-mobile-gallery-clip)">
+    <image href="data:image/jpeg;base64,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" x="8" y="8" width="184" height="97" preserveAspectRatio="xMidYMid slice"/>
+  </g>
+  <rect x="8.5" y="8.5" width="183" height="96" rx="7.5" fill="none" stroke="#ccfbf1" stroke-opacity="0.16"/>
+  <text x="10" y="123" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10.5" font-weight="700" fill="#ccfbf1">NOVA Mobile Gallery</text>
+  <circle cx="160" cy="119.5" r="3" fill="#4ade80">
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="190" y="123" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="8" font-weight="800" letter-spacing="1" fill="#4ade80">LIVE</text>
+  <rect x="0.5" y="0.5" width="199" height="131" rx="11.5" fill="none" stroke="#2dd4bf" stroke-opacity="0.35"/>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="132" viewBox="0 0 200 132" role="img" aria-label="آذرکَن — Lighting House — live site">
+  <defs>
+    <linearGradient id="t-azarcan-github-io-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#042f2e"/>
+      <stop offset="55%" stop-color="#0c3a37"/>
+      <stop offset="100%" stop-color="#042f2e"/>
+    </linearGradient>
+    <clipPath id="t-azarcan-github-io-clip"><rect x="8" y="8" width="184" height="97" rx="8"/></clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="199" height="131" rx="12" fill="url(#t-azarcan-github-io-bg)" stroke="#2dd4bf" stroke-opacity="0.62"/>
+  <g clip-path="url(#t-azarcan-github-io-clip)">
+    <image href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wAARCABhALgDASIAAhEBAxEB/8QAGwABAQADAQEBAAAAAAAAAAAAAAECAwYFBAf/xAAyEAACAQMDAwIEBQMFAAAAAAAAAQIDBBEFITEGEkEiUTJhcYEHExQjMxUWVXKUsdHS/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAIDAQT/xAAjEQEAAgEEAQQDAAAAAAAAAAAAARECAxIhMSIEE0LwUWGB/9oADAMBAAIRAxEAPwD8fAAAAgAoIABfBAKQFAgKQCjIHIAgAApCgQoIBQAAAAAAgAoCAEBQIUgAAGx0asaMa0qc1Tm3GM3F9smuUn9wMPOMbsyqU50qjp1IShOOzjJYa+x1HQuh3Gr3V1Voag7KNGMYzlTgpVGpZ+Fv4eOTDqmtoFCjLTtMs7p3kKylXu7rPfLCeV6t+XnhGPuxv2Qvb425mPqcYqPc28JLlmVC3rXVaNG3o1K1WXwwpxcpP6JHpdLVLyn1NYOwdFXLrKMHWScFnZ5+2eN/Y9DV7LqDpfX6sripK3qX7lF17b0wqxlJdyjhen6bNFzlU0muLeBcWV3Z7XVrWoPucf3abjuuVuvmjQdh+JNvU07XLfTVfXlzb0baM6SuqzqODk3nD+yOQO4zuxsmKmggKU4hSAAUEAoAAEKEBACgQFIBcbfQhRt4A6PofTLTVdcqU76iq1ClbzqOm8+p7JcfU+fTtYrXN1p2mXUVW0yndpxtZLKxKWMZ5eM7HzdPa3V0DV6d/SgqiScalNvHfF8rPh+fsdVDqXom1uf6lb6HcO9T74waxGM/f4ml9keXUjKM54uJ6/TXGq7p6l50NfW/UNXUtC1W206Mmmqe8e3bdYWzj5w/c83r2vYy1TRVUla3t/Swr38lemazHEXv59W3OGcZq2pV9Y1O41C5x+ZXl3NR4iuEl8ksI9vpLV+ndFp1rzVNNq3d/SqKVqov08ec7Jp+cPk5jpZY1llNzH3snKJ4h7+v9DU9W6xu7TTKtpYQo2tGr+XOPbHfMdkvpk3dVOnpfR1homparR1LU4XcJ03B5lTgn5fPDxl8/Y4LW9XuNd1avqV1hVKz2jHiEVsor6I+A1x05qN09JnKOadx+LbT6xhhpr9HT4efMjhwXwaYxtikzNzYQpCnAo2xv9iAVEBWAAAAIEAFAAEAAo8AgAyhBzmoR5fBiVPDznDA3uyuYvEqMov5r5ZMFb1nOMHTlFyeF3LGTFTqvKjObb9m8sv7+c/uZxjOGAjQqzx2U5S7tlhcmEouEnGSw1ybVXr0koKpOKjwuMGptt5by35YEL4IAAKQCsgKBCsgAoAAEKAARAAKCACgcfUCAuSAdPadB6nc2Mbz9XZUYNZanUlmHyeFs9zP+xr7/M6b/uJf9Hn23V+v2ltC3o6lONKnHtjFwjLC9stZM11p1Cm2tQe7z/DT/wDJ5Zx9Rfcff41vT/DffdE39lRrVZ31jVnSi5SpwqvvePbK5ObPZuerdeu7epQrajOVOonGaUIxbXtlLJ4xrpxqRHmjLb8QoD3fGDVJlgEAFAAEBQAAAAAAQoAgBQBAAAAApCmdOcYPMqSqeybaA1l8G1Vaagk7dN77uT3NcmpSbSUU/C8AQgKBCkKAICgAAAAAAAAAAAZAAKQAAAAKAAM6n8dL/S/+WawAAAApAABQAAAAAAD/2Q==" x="8" y="8" width="184" height="97" preserveAspectRatio="xMidYMid slice"/>
+  </g>
+  <rect x="8.5" y="8.5" width="183" height="96" rx="7.5" fill="none" stroke="#ccfbf1" stroke-opacity="0.16"/>
+  <text x="10" y="123" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10.5" font-weight="700" fill="#ccfbf1">آذرکَن — Lighting Hou…</text>
+  <circle cx="160" cy="119.5" r="3" fill="#4ade80">
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="190" y="123" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="8" font-weight="800" letter-spacing="1" fill="#4ade80">LIVE</text>
+  <rect x="0.5" y="0.5" width="199" height="131" rx="11.5" fill="none" stroke="#2dd4bf" stroke-opacity="0.35"/>
+</svg>

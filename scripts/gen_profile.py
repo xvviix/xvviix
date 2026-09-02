@@ -32,7 +32,7 @@ USER = "xvviix"
 HERE = os.path.dirname(os.path.abspath(__file__))
 TEMPLATES = os.path.join(HERE, "templates")
 OUT = os.path.join(os.path.dirname(HERE), "gitskins")
-TOKEN = os.environ.get("GITHUB_TOKEN", "")
+TOKEN = os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN", "")
 
 UA = {"User-Agent": "xvviix-profile-gen/1.0"}
 
@@ -62,7 +62,14 @@ def _http(url: str, data: bytes = None, headers: dict = None, timeout: int = 30,
             if ex.code >= 500 and i < retries - 1:
                 time.sleep(4 * (i + 1))
                 continue
-            raise
+            try:
+                body = ex.read()[:200]
+            except Exception:
+                body = b""
+            raise RuntimeError(
+                f"HTTP {ex.code} for {url} "
+                f"(token={'yes, len ' + str(len(TOKEN)) if TOKEN else 'no'}): {body!r}"
+            ) from ex
         except Exception as ex:  # noqa
             last = ex
             if i < retries - 1:
@@ -70,6 +77,21 @@ def _http(url: str, data: bytes = None, headers: dict = None, timeout: int = 30,
                 continue
             raise
     raise RuntimeError(f"HTTP fail for {url}: {last}")
+
+
+def _urlopen(req, timeout: int = 30):
+    """urlopen with a detailed error (URL, status, body, token state)."""
+    try:
+        return urllib.request.urlopen(req, timeout=timeout)
+    except urllib.error.HTTPError as ex:
+        try:
+            body = ex.read()[:200]
+        except Exception:
+            body = b""
+        raise RuntimeError(
+            f"HTTP {ex.code} for {req.full_url} "
+            f"(token={'yes, len ' + str(len(TOKEN)) if TOKEN else 'no'}): {body!r}"
+        ) from ex
 
 
 def rest(path: str):
@@ -94,7 +116,7 @@ def fetch_user():
     repos = []
     while url:
         req = urllib.request.Request("https://api.github.com" + url, headers=hdrs)
-        resp = urllib.request.urlopen(req, timeout=30)
+        resp = _urlopen(req)
         repos.extend(json.loads(resp.read()))
         link = resp.headers.get("Link", "")
         m = re.search(r'<([^>]+)>;\s*rel="next"', link)

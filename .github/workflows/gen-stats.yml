@@ -22,10 +22,19 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Verify API token
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          code=$(curl -s -o /tmp/whoami.json -w '%{http_code}' -H "Authorization: Bearer $GH_TOKEN" https://api.github.com/user)
+          echo "api /user -> $code (token length ${#GH_TOKEN})"
+          head -c 300 /tmp/whoami.json
+          echo
+
       - name: Generate gitskins/stats.svg
         run: python3 scripts/gen_profile.py stats
         env:
-          GITHUB_TOKEN: ${ secrets.GITHUB_TOKEN }
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push if changed
         run: |

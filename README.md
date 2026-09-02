@@ -27,21 +27,6 @@
 </p>
 
 <p align="center">
-  <a href="https://xvviix.github.io/xvviix-portfolio/">
-    <img src="https://img.shields.io/badge/▶%20LIVE%20DEMO-xvviix.github.io-d4af37?style=for-the-badge&labelColor=140d02"/>
-  </a>
-  <a href="https://github.com/xvviix/xvviix-portfolio">
-    <img src="https://img.shields.io/badge/GITHUB-xvviix-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://xvviix.github.io/xvviix-portfolio/">
-    <img src="https://raw.githubusercontent.com/xvviix/xvviix-portfolio/main/public/images/og-card.jpg" alt="XVVIIX — cinematic 3D portfolio" width="70%"/>
-  </a>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/neon-bar.svg" alt="" width="100%"/>
 </p>
 

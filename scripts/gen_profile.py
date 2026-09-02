@@ -235,12 +235,15 @@ def build_stats(d):
     return tpl
 
 
+# (fill color, final fill-opacity) — cells are drawn SOLID at the final
+# opacity; the entrance fade below is a pure enhancement and can never
+# leave a cell invisible (GitHub sometimes doesn't run SMIL in <img> SVGs).
 LEVELS = {
-    0: ("#ccfbf1", "0;0.07;0.07"),
-    1: ("#41d8c5", "0;0.56;0.34"),
-    2: ("#41d8c5", "0;0.77;0.55"),
-    3: ("#41d8c5", "0;1.00;0.78"),
-    4: ("#41d8c5", "0;1.00;1"),
+    0: ("#ccfbf1", "0.07"),
+    1: ("#41d8c5", "0.34"),
+    2: ("#41d8c5", "0.55"),
+    3: ("#41d8c5", "0.78"),
+    4: ("#41d8c5", "1"),
 }
 
 
@@ -262,25 +265,19 @@ def build_activity(d):
             lv = d["cellmap"].get(iso)
             if lv is None:
                 continue  # outside the window (future / before window start)
-            color, anim = LEVELS[min(lv, 4)]
+            color, final_op = LEVELS[min(lv, 4)]
             x = 51.5 + col * 14
             y = 105.5 + row * 14
-            begin = 0.2 + 0.01 * idx
-            dur = 2.2 - 0.01 * idx
+            begin = 0.02 * col  # left→right wave, whole grid fades in ~1.5s
             parts.append(
                 f'<g transform="translate({x},{y})">\n'
                 f'  <rect x="-5.5" y="-5.5" width="11" height="11" rx="2.5" '
-                f'fill="{color}" fill-opacity="0" transform="scale(0.15)">\n'
-                f'    <animate attributeName="fill-opacity" values="{anim}" keyTimes="0;0.55;1" '
-                f'begin="{begin:.3f}s" dur="{dur:.3f}s" fill="freeze" calcMode="spline" '
-                f'keySplines="0.2 0.8 0.2 1;0.4 0 0.2 1"/>\n'
-                f'    <animateTransform attributeName="transform" type="scale" values="0.15;1.12;1" '
-                f'keyTimes="0;0.55;1" begin="{begin:.3f}s" dur="{dur:.3f}s" fill="freeze" '
-                f'calcMode="spline" keySplines="0.2 0.8 0.2 1;0.4 0 0.2 1"/>\n'
+                f'fill="{color}" fill-opacity="{final_op}">\n'
+                f'    <animate attributeName="fill-opacity" values="0;{final_op}" '
+                f'begin="{begin:.3f}s" dur="0.45s" fill="freeze"/>\n'
                 f'  </rect>\n'
                 f'</g>'
             )
-            idx += 1
     return head + "".join(parts) + tail
 
 

@@ -1,0 +1,41 @@
+name: Gen projects cards
+
+on:
+  schedule:
+    - cron: "0 * * * *"        # هر ساعت
+  workflow_dispatch:           # اجرای دستی (Run workflow)
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-gen          # اجرای هم‌زمان چند generator رو سریال می‌کنه
+  cancel-in-progress: false
+
+jobs:
+  gen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate gitskins/projects.svg
+        run: python3 scripts/gen_profile.py projects
+        env:
+          GITHUB_TOKEN: ${ secrets.GITHUB_TOKEN }
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add gitskins/projects.svg
+          if git diff --cached --quiet; then
+            echo "No changes — already up to date."
+          else
+            git commit -m "Auto-update gitskins/projects.svg (Gitskins kit)"
+            git push
+            echo "Pushed."
+          fi

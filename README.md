@@ -1,47 +1,26 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/light.svg" alt="Matin" width="100%"/>
-</p>
-
-<h1>Hello Im Matin. I build <i>APPS & WEBSITES</i> that looks good and work perfectly.</h1>
-
-<p align="center">
-  <b>Python Intermediate · HTML/CSS/JS Master · Vibe coder · High school student</b>
+  <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/hero.svg" alt="Matin — hero" width="860"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fxvviix%2Fxvviix%2Fmain%2Fstats.json&query=repos&label=repos&color=0891b2&style=flat-square"/>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fxvviix%2Fxvviix%2Fmain%2Fstats.json&query=live&label=live%20sites&color=7c3aed&style=flat-square"/>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fxvviix%2Fxvviix%2Fmain%2Fstats.json&query=stars&label=stars&color=f59e0b&style=flat-square"/>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fxvviix%2Fxvviix%2Fmain%2Fstats.json&query=followers&label=followers&color=ec4899&style=flat-square"/>
+  <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/typing1.svg" alt="Hi I'm Matin" width="435"/>
 </p>
 
 <p align="center">
-  I like building things that <i>look</i> good and <i>actually work</i>.<br/>
-  Cinematic 3D web experiences, premium static sites, and Python tools with real use cases.
+  <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/neon-bar.svg" alt="" width="100%"/>
 </p>
-
----
-
-### 📊 The numbers
 
 <p align="center">
-<a href="https://github.com/stats-organization/github-stats-extended">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=xvviix&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff"/>
-</a>
-<a href="https://github.com/stats-organization/github-stats-extended">
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=xvviix&layout=compact&hide_border=true&title_color=0891b2&text_color=0f172a&bg_color=ffffff&langs_count=6"/>
-</a>
+  <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/stats.svg" alt="Live GitHub stats" width="860"/>
 </p>
-
----
-
-### 🐍 Contribution snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xvviix/xvviix/output/snake.svg" alt="Snake eating my contributions"/>
+  <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/system-scan.svg" alt="System scan" width="880"/>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/neon-bar.svg" alt="" width="100%"/>
+</p>
 
 ## 📌 Featured Work
 
@@ -67,9 +46,19 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/xvviix/xvviix-portfolio">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=xvviix&repo=xvviix-portfolio&title_color=0891b2&icon_color=7c3aed&text_color=0f172a&bg_color=ffffff&hide_border=true"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/neon-bar.svg" alt="" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/projects.svg" alt="Projects list" width="860"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/activity.svg" alt="Contribution activity" width="860"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/typing2.svg" alt="stack" width="435"/>
 </p>
 
 ---
@@ -153,6 +142,12 @@ Every site below is deployed on GitHub Pages — click to open it:
 
 ---
 
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/stack.svg" alt="Language stack" width="860"/>
+</p>
+
 ## 🛠️ Stack
 
 <table align="center">
@@ -184,3 +179,19 @@ Every site below is deployed on GitHub Pages — click to open it:
     <td align="center" width="105"><img src="stack-icons/json.svg" width="48" height="48" title="JSON-LD and SEO"/><br/><b>JSON-LD &amp; SEO</b></td>
   </tr>
 </table>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xvviix/xvviix/output/snake.svg" alt="Snake eating my contributions"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/social.svg" alt="Social" width="860"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/wordmark.svg" alt="MATIN" width="620"/>
+</p>

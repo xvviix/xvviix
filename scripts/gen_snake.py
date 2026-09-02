@@ -118,13 +118,10 @@ def render(total, cells):
 
     n_active = len(active_idx)
     n_max = sum(1 for _, _, _, l in cells if l == 4)
-    # snake body = last 5 weeks of the crawl; earlier route becomes a faint trail
-    span = min(i1 - i0 + 1, 35)
-    body = path[i1 - span + 1:i1 + 1]
+    # classic snake: body is the full serpentine route from the first
+    # active day to today; the crawl animation makes it visibly move
+    body = path[i0:i1 + 1]
     d_attr = "M " + " L ".join(f"{cx(c):.1f} {cy(r):.1f}" for r, c, _ in body)
-    trail = "".join(
-        f'<circle cx="{cx(c):.1f}" cy="{cy(r):.1f}" r="1.4" fill="#4ade80" opacity="0.16"/>'
-        for r, c, _ in path[i0:i1 - span + 1:3])
     hr, hc, _ = body[-1]
     head_x, head_y = cx(hc), cy(hr)
     # head direction from the last two body cells
@@ -180,12 +177,14 @@ def render(total, cells):
     {grid}
 
     <!-- snake -->
-    {trail}
-    <path d="{d_attr}" fill="none" stroke="#4ade80" stroke-opacity="0.14" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="{d_attr}" fill="none" stroke="#4ade80" stroke-opacity="0.14" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="{d_attr}" fill="none" stroke="url(#gs-snake-body)" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="{d_attr}" fill="none" stroke="#d1fae5" stroke-opacity="0.9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 240">
-      <animate attributeName="stroke-dashoffset" from="0" to="-250" dur="5s" repeatCount="indefinite"/>
+    <path d="{d_attr}" fill="none" stroke="#d1fae5" stroke-opacity="0.85" stroke-width="4.5" stroke-linecap="round" stroke-dasharray="12 16">
+      <animate attributeName="stroke-dashoffset" from="0" to="-280" dur="5s" repeatCount="indefinite"/>
     </path>
+    <circle r="3.2" fill="#ffffff" opacity="0.9">
+      <animateMotion dur="24s" repeatCount="indefinite" path="{d_attr}"/>
+    </circle>
     {dots_s}
     <circle cx="{tail_x:.1f}" cy="{tail_y:.1f}" r="3" fill="#2dd4bf" opacity="0.85"/>
     <g>

@@ -132,42 +132,16 @@ Every site below is deployed on GitHub Pages — click to open it:
 
 ## 🛠️ Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="105"><img src="stack-icons/html5.svg" width="48" height="48" title="HTML5"/><br/><b>HTML5</b></td>
-    <td align="center" width="105"><img src="stack-icons/css3.svg" width="48" height="48" title="CSS3"/><br/><b>CSS3</b></td>
-    <td align="center" width="105"><img src="stack-icons/javascript.svg" width="48" height="48" title="JavaScript"/><br/><b>JavaScript</b></td>
-    <td align="center" width="105"><img src="stack-icons/react.svg" width="48" height="48" title="React"/><br/><b>React</b></td>
-    <td align="center" width="105"><img src="stack-icons/nextjs.svg" width="48" height="48" title="Next.js"/><br/><b>Next.js</b></td>
-  </tr>
-  <tr>
-    <td align="center" width="105"><img src="stack-icons/threejs.svg" width="48" height="48" title="Three.js"/><br/><b>Three.js / R3F</b></td>
-    <td align="center" width="105"><img src="stack-icons/nodejs.svg" width="48" height="48" title="Node.js"/><br/><b>Node.js</b></td>
-    <td align="center" width="105"><img src="stack-icons/git.svg" width="48" height="48" title="Git"/><br/><b>Git</b></td>
-    <td align="center" width="105"><img src="stack-icons/github.svg" width="48" height="48" title="GitHub"/><br/><b>GitHub</b></td>
-    <td align="center" width="105"><img src="stack-icons/markdown.svg" width="48" height="48" title="Markdown"/><br/><b>Markdown</b></td>
-  </tr>
-  <tr>
-    <td align="center" width="105"><img src="stack-icons/python.svg" width="48" height="48" title="Python"/><br/><b>Python</b></td>
-    <td align="center" width="105"><img src="stack-icons/tkinter.svg" width="48" height="48" title="Tkinter"/><br/><b>Tkinter</b></td>
-    <td align="center" width="105"><img src="stack-icons/paddleocr.png" width="48" height="48" title="PaddleOCR"/><br/><b>PaddleOCR</b></td>
-    <td align="center" width="105"><img src="stack-icons/pymupdf.svg" width="78" title="PyMuPDF"/><br/><b>PyMuPDF</b></td>
-    <td align="center" width="105"><img src="stack-icons/pillow.png" width="82" title="Pillow"/><br/><b>Pillow</b></td>
-  </tr>
-  <tr>
-    <td align="center" width="105"><img src="stack-icons/github-actions.svg" width="46" title="GitHub Actions"/><br/><b>GitHub Actions</b></td>
-    <td align="center" width="105"><img src="stack-icons/github-pages.svg" width="46" title="GitHub Pages"/><br/><b>GitHub Pages</b></td>
-    <td align="center" width="105"><img src="stack-icons/lenis.svg" width="46" title="Lenis"/><br/><b>Lenis</b></td>
-    <td align="center" width="105"><img src="stack-icons/json.svg" width="48" height="48" title="JSON-LD and SEO"/><br/><b>JSON-LD &amp; SEO</b></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/stack-grid.svg" alt="Stack — technologies" width="860"/>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/neon-bar.svg" alt="" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xvviix/xvviix/output/snake.svg" alt="Snake eating my contributions"/>
+  <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/snake.svg" alt="Contribution snake" width="860"/>
 </p>
 
 <p align="center">

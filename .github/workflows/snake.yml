@@ -5,23 +5,48 @@ on:
     - cron: "0 0 * * *"   # روزانه ساعت 00:00 UTC
   workflow_dispatch:      # اجرای دستی
 
+permissions:
+  contents: write
+
+concurrency:
+  group: gen-snake
+  cancel-in-progress: false
+
 jobs:
-  build:
+  gen:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: actions/checkout@v4
 
-      - uses: Platane/snk@v3
+      - uses: actions/setup-python@v5
         with:
-          github_user_name: xvviix
-          outputs: |
-            dist/snake.svg?github_user_name=xvviix&color_snake=#7c3aed&color_dots=#0f172a,#1d4ed8,#0891b2,#10b981,#f59e0b
+          python-version: "3.12"
 
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Verify API token
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          curl -s -H "Authorization: Bearer $GH_TOKEN" https://api.github.com/rate_limit \
+            | grep -o '"limit": *[0-9]*' | head -1 | sed 's/^/auth check: /'
+
+      - name: Generate gitskins/snake.svg
+        run: python3 scripts/gen_snake.py
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add gitskins/snake.svg
+          if git diff --cached --quiet; then
+            echo "No changes — snake is already up to date."
+          else
+            git commit -m "Auto-update gitskins/snake.svg (Gitskins kit)"
+            for i in 1 2 3; do
+            if git push; then echo "Pushed."; exit 0; fi
+            echo "push rejected, rebasing (attempt $i)"
+            git pull --rebase origin main || exit 1
+          done
+          exit 1
+          fi

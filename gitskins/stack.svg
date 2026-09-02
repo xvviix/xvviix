@@ -86,9 +86,9 @@
     <g class="aura-chip" style="animation-delay:0ms">
       <circle cx="54" cy="107" r="5" fill="#e55b38"/>
       <text x="72" y="112" font-family="-apple-system,BlinkMacSystemFont,&#39;Segoe UI&#39;,sans-serif" font-size="14" font-weight="800" fill="#ccfbf1">HTML</text>
-      <text x="306" y="112" font-family="-apple-system,BlinkMacSystemFont,&#39;Segoe UI&#39;,sans-serif" font-size="13" font-weight="850" fill="#e55b38" text-anchor="end">67%</text>
+      <text x="306" y="112" font-family="-apple-system,BlinkMacSystemFont,&#39;Segoe UI&#39;,sans-serif" font-size="13" font-weight="850" fill="#e55b38" text-anchor="end">66%</text>
       <rect x="330" y="98" width="466" height="9" rx="4.5" fill="rgba(255,255,255,0.12)"/>
-      <rect class="aura-bar" x="330" y="98" width="312" height="9" rx="4.5" fill="#e55b38" opacity="0.95"/>
+      <rect class="aura-bar" x="330" y="98" width="308" height="9" rx="4.5" fill="#e55b38" opacity="0.95"/>
     </g><g class="aura-chip" style="animation-delay:95ms">
       <circle cx="54" cy="139" r="5" fill="#8f57c7"/>
       <text x="72" y="144" font-family="-apple-system,BlinkMacSystemFont,&#39;Segoe UI&#39;,sans-serif" font-size="14" font-weight="800" fill="#ccfbf1">CSS</text>

@@ -123,7 +123,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/snake.svg" alt="Contribution snake" width="860"/>
+  <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/activity.svg" alt="Contribution activity" width="860"/>
 </p>
 
 <p align="center">

@@ -110,9 +110,9 @@
     </g><g class="aura-chip" style="animation-delay:380ms">
       <circle cx="54" cy="235" r="5" fill="#c1f12e"/>
       <text x="72" y="240" font-family="-apple-system,BlinkMacSystemFont,&#39;Segoe UI&#39;,sans-serif" font-size="14" font-weight="800" fill="#ccfbf1">Batchfile</text>
-      <text x="306" y="240" font-family="-apple-system,BlinkMacSystemFont,&#39;Segoe UI&#39;,sans-serif" font-size="13" font-weight="850" fill="#c1f12e" text-anchor="end">0%</text>
+      <text x="306" y="240" font-family="-apple-system,BlinkMacSystemFont,&#39;Segoe UI&#39;,sans-serif" font-size="13" font-weight="850" fill="#c1f12e" text-anchor="end">1%</text>
       <rect x="330" y="226" width="466" height="9" rx="4.5" fill="rgba(255,255,255,0.12)"/>
-      <rect class="aura-bar" x="330" y="226" width="4" height="9" rx="4.5" fill="#c1f12e" opacity="0.95"/>
+      <rect class="aura-bar" x="330" y="226" width="5" height="9" rx="4.5" fill="#c1f12e" opacity="0.95"/>
     </g>
     <rect x="0.5" y="0.5" width="859" height="279" rx="19.5" fill="none" stroke="#2dd4bf" stroke-opacity="0.62"/>
   </g>

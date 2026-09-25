@@ -95,6 +95,7 @@
 <a href="https://xvviix.github.io/Linux-commands/"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/tiles/Linux-commands.svg" width="200" title="Linux Commands" alt="Linux Commands"/></a>
 <a href="https://xvviix.github.io/python-master-reference/"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/tiles/python-master-reference.svg" width="200" title="Python Master Reference" alt="Python Master Reference"/></a>
 <a href="https://xvviix.github.io/song-splitter/"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/tiles/song-splitter.svg" width="200" title="Song Splitter" alt="Song Splitter"/></a>
+<a href="https://xvviix.github.io/cook-atlas/"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/tiles/cook-atlas.svg" width="200" title="Cook Atlas" alt="Cook Atlas"/></a>
 </div>
 <!-- GITSKINS:TILES:END -->
 

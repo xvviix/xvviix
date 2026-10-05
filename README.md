@@ -64,7 +64,7 @@
 <a href="https://xvviix.github.io/Perfume/"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/tiles/Perfume.svg" width="200" title="Royal Perfume" alt="Royal Perfume"/></a>
 <a href="https://xvviix.github.io/Habibi-shoes/"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/tiles/Habibi-shoes.svg" width="200" title="Habibi Shoes" alt="Habibi Shoes"/></a>
 <a href="https://xvviix.github.io/zarineh-watch-store/"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/tiles/zarineh-watch-store.svg" width="200" title="Zarineh Watches" alt="Zarineh Watches"/></a>
-<a href="https://xvviix.github.io/Dastin/"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/tiles/Dastin.svg" width="200" title="Dastin Brand" alt="Dastin Brand"/></a>
+<a href="https://dastin.dpdns.org/"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/tiles/Dastin.svg" width="200" title="Dastin Brand" alt="Dastin Brand"/></a>
 <a href="https://xvviix.github.io/photography-portfolio/"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/tiles/photography-portfolio.svg" width="200" title="Photography Portfolio" alt="Photography Portfolio"/></a>
 <a href="https://xvviix.github.io/travel-agency/"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/tiles/travel-agency.svg" width="200" title="Auora Voyages" alt="Auora Voyages"/></a>
 <a href="https://xvviix.github.io/Freshmart/"><img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/tiles/Freshmart.svg" width="200" title="Freshmart" alt="Freshmart"/></a>

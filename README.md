@@ -37,10 +37,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/neon-bar.svg" alt="" width="100%"/>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/xvviix/xvviix/main/gitskins/stack.svg" alt="Language stack" width="860"/>
 </p>
 
